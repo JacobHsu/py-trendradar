@@ -1,61 +1,111 @@
 {
-  "generated_at": "2025-10-15T17:02:07.296650+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-10-15T23:10:28.392191+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/2988089",
-          "source": "华尔街见闻-快讯",
+          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "23时10分"
         },
         {
-          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/2988064",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大指数集体高开 百度涨近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%BF%913%25",
+          "source": "百度热搜",
           "ranks": [
-            16
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "23时10分"
         },
         {
-          "title": "美股盘前，阿斯麦涨3.5%，Q3订单额54亿欧元超预期，净销售额75.2亿欧元；科技股普涨，英伟达、博通、AMD等均涨超1%，热门中概股走高，阿里巴巴涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2988053",
+          "title": "美股盘初，主要行业ETF多数上涨，公用事业ETF、半导体ETF、黄金ETF均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2988290",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "23时10分"
+        },
+        {
+          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     },
     {
       "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价银价大涨原因",
+          "url": "https://www.douyin.com/hot/2270986",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
+          "url": "https://flash.jin10.com/detail/20251015222750293800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "金价暴涨 买黄金还是黄金股",
+          "url": "https://www.toutiao.com/trending/7561421312267439654/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 BTC Bitcoin",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价狂飙下结婚“三金”有必要买吗",
-          "url": "https://www.toutiao.com/trending/7561313066474819118/",
-          "source": "今日头条",
+          "title": "近13万枚比特币被查获",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BF%9113%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E8%A2%AB%E6%9F%A5%E8%8E%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%25BF%259113%25E4%25B8%2587%25E6%259E%259A%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%25E8%25A2%25AB%25E6%259F%25A5%25E8%258E%25B7%2523%26dgr%3D0%26realpos%3D2%26stream_entry_id%3D31%26c_type%3D31%26flag%3D0%26band_rank%3D2%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26pos%3D1%26display_time%3D1760540940%26pre_seqid%3D17605409400960054819",
+          "source": "微博",
           "ranks": [
-            30
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     }
