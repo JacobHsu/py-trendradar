@@ -84,30 +84,9 @@ def load_config():
         "PLATFORMS": config_data["platforms"],
     }
 
-    # Webhook配置（环境变量优先）
-    notification = config_data.get("notification", {})
-    webhooks = notification.get("webhooks", {})
-
-    config["TELEGRAM_BOT_TOKEN"] = os.environ.get(
-        "TELEGRAM_BOT_TOKEN", ""
-    ).strip() or webhooks.get("telegram_bot_token", "")
-    config["TELEGRAM_CHAT_ID"] = os.environ.get(
-        "TELEGRAM_CHAT_ID", ""
-    ).strip() or webhooks.get("telegram_chat_id", "")
-
-    # 输出配置来源信息
-    webhook_sources = []
-    if config["TELEGRAM_BOT_TOKEN"] and config["TELEGRAM_CHAT_ID"]:
-        token_source = (
-            "环境变量" if os.environ.get("TELEGRAM_BOT_TOKEN") else "配置文件"
-        )
-        chat_source = "环境变量" if os.environ.get("TELEGRAM_CHAT_ID") else "配置文件"
-        webhook_sources.append(f"Telegram({token_source}/{chat_source})")
-
-    if webhook_sources:
-        print(f"Webhook 配置来源: {', '.join(webhook_sources)}")
-    else:
-        print("未配置任何 Webhook")
+    # Webhook配置（已停用所有通知推送功能）
+    # 僅生成 HTML 靜態頁面，不使用任何通知服務
+    print("通知功能已停用，僅生成 HTML 靜態頁面")
 
     return config
 
@@ -2557,76 +2536,9 @@ def send_to_webhooks(
         proxy_url: Optional[str] = None,
         mode: str = "daily",
 ) -> Dict[str, bool]:
-    """发送数据到多个webhook平台"""
-    results = {}
-
-    if CONFIG["SILENT_PUSH"]["ENABLED"]:
-        push_manager = PushRecordManager()
-        time_range_start = CONFIG["SILENT_PUSH"]["TIME_RANGE"]["START"]
-        time_range_end = CONFIG["SILENT_PUSH"]["TIME_RANGE"]["END"]
-
-        if not push_manager.is_in_time_range(time_range_start, time_range_end):
-            now = get_beijing_time()
-            print(
-                f"静默模式：当前时间 {now.strftime('%H:%M')} 不在推送时间范围 {time_range_start}-{time_range_end} 内，跳过推送")
-            return results
-
-        if CONFIG["SILENT_PUSH"]["ONCE_PER_DAY"]:
-            if push_manager.has_pushed_today():
-                print(f"静默模式：今天已推送过，跳过本次推送")
-                return results
-            else:
-                print(f"静默模式：今天首次推送")
-
-    report_data = prepare_report_data(stats, failed_ids, new_titles, id_to_name, mode)
-
-    feishu_url = CONFIG["FEISHU_WEBHOOK_URL"]
-    dingtalk_url = CONFIG["DINGTALK_WEBHOOK_URL"]
-    wework_url = CONFIG["WEWORK_WEBHOOK_URL"]
-    telegram_token = CONFIG["TELEGRAM_BOT_TOKEN"]
-    telegram_chat_id = CONFIG["TELEGRAM_CHAT_ID"]
-
-    update_info_to_send = update_info if CONFIG["SHOW_VERSION_UPDATE"] else None
-
-    # 发送到飞书
-    if feishu_url:
-        results["feishu"] = send_to_feishu(
-            feishu_url, report_data, report_type, update_info_to_send, proxy_url, mode
-        )
-
-    # 发送到钉钉
-    if dingtalk_url:
-        results["dingtalk"] = send_to_dingtalk(
-            dingtalk_url, report_data, report_type, update_info_to_send, proxy_url, mode
-        )
-
-    # 发送到企业微信
-    if wework_url:
-        results["wework"] = send_to_wework(
-            wework_url, report_data, report_type, update_info_to_send, proxy_url, mode
-        )
-
-    # 发送到 Telegram
-    if telegram_token and telegram_chat_id:
-        results["telegram"] = send_to_telegram(
-            telegram_token,
-            telegram_chat_id,
-            report_data,
-            report_type,
-            update_info_to_send,
-            proxy_url,
-            mode,
-        )
-
-    if not results:
-        print("未配置任何webhook URL，跳过通知发送")
-
-    # 如果成功发送了任何通知，且启用了每天只推一次，则记录推送
-    if CONFIG["SILENT_PUSH"]["ENABLED"] and CONFIG["SILENT_PUSH"]["ONCE_PER_DAY"] and any(results.values()):
-        push_manager = PushRecordManager()
-        push_manager.record_push(report_type)
-
-    return results
+    """發送通知功能已停用，僅生成 HTML 靜態頁面"""
+    print("通知推送功能已停用，僅生成 HTML 靜態頁面")
+    return {}
 
 
 def send_to_feishu(
@@ -2939,15 +2851,9 @@ class NewsAnalyzer:
         return self.MODE_STRATEGIES.get(self.report_mode, self.MODE_STRATEGIES["daily"])
 
     def _has_webhook_configured(self) -> bool:
-        """检查是否配置了webhook"""
-        return any(
-            [
-                CONFIG["FEISHU_WEBHOOK_URL"],
-                CONFIG["DINGTALK_WEBHOOK_URL"],
-                CONFIG["WEWORK_WEBHOOK_URL"],
-                (CONFIG["TELEGRAM_BOT_TOKEN"] and CONFIG["TELEGRAM_CHAT_ID"]),
-            ]
-        )
+        """检查是否配置了webhook（已停用所有通知功能）"""
+        # 停用所有通知推送，僅生成 HTML
+        return False
 
     def _has_valid_content(
             self, stats: List[Dict], new_titles: Optional[Dict] = None
