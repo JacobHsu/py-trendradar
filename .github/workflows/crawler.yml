@@ -1,0 +1,91 @@
+name: News HTML Generator
+
+on:
+  schedule:
+    # 我們使用的是 github 官方提供的資源來進行的推送，而每個帳號的資源是限額的，為了不被官方判定為濫用而面臨封號的風險，不建議比半小時更低
+    # 每天 9:00, 12:00, 18:00 執行
+    - cron: "0 9,12,18 * * *" # 每小時整點運行一次"0 * * * *" 或者 "*/30 * * * *" (每半小時執行一次) 或者 "*/30 0-14 * * *"(每天早上 8 點到晚上 10 點期間，每半小時運行一次)
+  workflow_dispatch:
+
+# 新增權限設定
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install --with-deps
+
+      - name: Verify required files
+        run: |
+          echo "🔍 檢查必需的設定檔..."
+
+          if [ ! -f config/config.yaml ]; then
+            echo "❌ 錯誤: config/config.yaml 檔案不存在"
+            echo "請參考專案文件建立設定檔"
+            exit 1
+          fi
+
+          if [ ! -f config/frequency_words.txt ]; then
+            echo "❌ 錯誤: config/frequency_words.txt 檔案不存在"
+            echo "請參考專案文件建立 frequency_words 設定檔"
+            exit 1
+          fi
+
+          echo "✅ 設定檔檢查通過"
+
+      - name: Run crawler
+        env:
+          GITHUB_ACTIONS: true
+        run: python main.py
+
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)" && git push)
+
+  # GitHub Pages 部署任務
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+
+    # 設定 Pages 部署環境
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: main  # 確保獲取最新提交的內容
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.'  # 上傳整個儲存庫內容到 Pages
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
