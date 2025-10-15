@@ -313,7 +313,7 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
       - 在 Telegram 中搜尋 `@BotFather`（大小寫注意，有藍色徽章勾勾，有類似 37849827 monthly users，這個才是官方的，有一些仿官方的帳號注意辨別）
       - 傳送 `/newbot` 命令建立新機器人
       - 設定機器人名稱（必須以「bot」結尾，很容易遇到重複名字，所以你要絞盡腦汁想不同的名字）
-      - 取得 Bot Token（格式如：`123456789:AAHfiqksKZ8WmR2zSjiQ7_v4TMAKdiHm9T0`）
+      - 取得 Bot Token
 
    2. **取得 Chat ID**：
 
