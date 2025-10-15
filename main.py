@@ -23,6 +23,14 @@ try:
 except ImportError:
     FLASK_AVAILABLE = False
 
+# Playwright 功能為可選依賴，嘗試導入 Playwright
+try:
+    from playwright.sync_api import sync_playwright
+
+    PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    PLAYWRIGHT_AVAILABLE = False
+
 
 
 VERSION = "2.2.0"
