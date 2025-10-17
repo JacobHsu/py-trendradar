@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-10-17T09:37:03.805672+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-10-17T12:10:15.429951+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "超薄iPhoneAir续航如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "国行iPhone Air上手体验",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
         {
           "title": "UP主用AI教库克说中文",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
@@ -14,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -23,11 +45,45 @@
           "url": "https://wallstreetcn.com/articles/3757296",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时10分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-17）",
+          "url": "https://flash.jin10.com/detail/20251017113854837800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海",
+          "url": "https://www.cls.cn/detail/2172161",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "德意志银行分析师：强劲的人工智能需求可能会挤占台积电的产能",
+          "url": "https://flash.jin10.com/detail/20251017112205880800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "AI for Science 行业目前进展如何？未来在哪些领域会有发展潜力？",
@@ -47,7 +103,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -58,9 +114,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "国行iPhone Air测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "华泰证券：关注AI算力链业绩兑现 运营商预计稳健增长",
@@ -69,9 +136,59 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
+          "url": "https://www.cls.cn/detail/2172128",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时10分]"
+        },
+        {
+          "title": "今年金价已经创45次新高",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%87%91%E4%BB%B7%E5%B7%B2%E7%BB%8F%E5%88%9B45%E6%AC%A1%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 09时37分]"
+        },
+        {
+          "title": "经济数据延迟放大市场不确定性 金价暴涨",
+          "url": "https://flash.jin10.com/detail/20251017080938157800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 09时37分]"
+        },
+        {
+          "title": "金价逼近4380美元 黄金成终极避风港",
+          "url": "https://www.toutiao.com/trending/7561991351475113514/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         }
       ]
     },
@@ -87,8 +204,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时10分]"
         },
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -98,8 +215,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时10分]"
         },
         {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
@@ -126,58 +243,31 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
-          "url": "https://www.cls.cn/detail/2172128",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
-        },
-        {
-          "title": "今年金价已经创45次新高",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%87%91%E4%BB%B7%E5%B7%B2%E7%BB%8F%E5%88%9B45%E6%AC%A1%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
-        },
-        {
-          "title": "经济数据延迟放大市场不确定性 金价暴涨",
-          "url": "https://flash.jin10.com/detail/20251017080938157800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
           "url": "https://www.zhihu.com/question/1961867297695166783",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时10分]"
+        },
+        {
+          "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
+          "url": "https://wallstreetcn.com/livenews/2989420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
@@ -193,8 +283,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时10分]"
         }
       ]
     }
