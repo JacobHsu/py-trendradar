@@ -1,75 +1,11 @@
 {
-  "generated_at": "2025-10-18T12:09:23.904869+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-10-18T18:07:01.521151+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 12时09分]"
-        },
-        {
-          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2173368",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 12时09分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 12时09分]"
-        },
-        {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 12时09分]"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7562026461385834537/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "ai 人工智能",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "我国生成式人工智能用户规模超5亿",
@@ -82,6 +18,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时34分 ~ 12时09分]"
+        },
+        {
+          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
+          "url": "https://www.cls.cn/detail/2172757",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
+          "url": "https://wallstreetcn.com/livenews/2990046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "iPhone Air全颜色开箱",
@@ -104,23 +73,132 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        },
+        {
+          "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
+          "url": "https://wallstreetcn.com/livenews/2990020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 18时07分]"
+        },
+        {
+          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2173368",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 18时07分]"
+        },
+        {
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 12时09分]"
+        },
+        {
+          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
+          "url": "https://wallstreetcn.com/articles/3757414",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2173194",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 12时09分]"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7562026461385834537/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金价银价大跳水 国内金饰价格下调",
+          "url": "https://www.toutiao.com/trending/7562444745599880713/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
         {
           "title": "金价银价大跳水",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D4%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26flag%3D0%26realpos%3D4%26lcate%3D5001%26band_rank%3D4%26stream_entry_id%3D31%26display_time%3D1760760486%26pre_seqid%3D17607604864750359211833",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 18时07分]"
         },
         {
           "title": "产量释放与金价红利共振，紫金矿业Q3归母净利润飙升57.14%｜财报见闻",
