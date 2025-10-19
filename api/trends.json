@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T09:35:29.825963+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-19T12:10:55.932689+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -15,8 +15,31 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时10分]"
+        },
+        {
+          "title": "特朗普发AI视频挑衅抗议者",
+          "url": "https://flash.jin10.com/detail/20251019112407399800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时10分"
+        },
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://wallstreetcn.com/articles/3757427",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时10分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -26,19 +49,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时10分]"
         },
         {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://wallstreetcn.com/articles/3757427",
-          "source": "华尔街见闻",
+          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
+          "url": "https://wallstreetcn.com/livenews/2990084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            22,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时10分]"
+        },
+        {
+          "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
+          "url": "https://wallstreetcn.com/articles/3757428",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时10分"
+        },
+        {
+          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
+          "url": "https://www.cls.cn/detail/2173607",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -46,17 +92,6 @@
           "source": "金十数据",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
-          "url": "https://wallstreetcn.com/livenews/2990084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -95,22 +130,24 @@
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时10分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
           "url": "https://flash.jin10.com/detail/20251019091747896800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时10分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -141,26 +178,45 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "金价为何下跌",
-          "url": "https://www.toutiao.com/trending/7562708312681090570/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
           "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
           "url": "https://wallstreetcn.com/articles/3757430",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时10分]"
+        },
+        {
+          "title": "金价为何下跌",
+          "url": "https://www.toutiao.com/trending/7562708312681090570/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
+          "url": "https://flash.jin10.com/detail/20251019102338888800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时10分"
         }
       ]
     },
@@ -178,6 +234,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以太坊 以太币 ETH Ethereum",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "以太坊突破3900美元/枚，日内涨0.28%。",
+          "url": "https://flash.jin10.com/detail/20251019114157038800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     }
