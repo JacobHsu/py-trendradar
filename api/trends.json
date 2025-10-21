@@ -1,22 +1,47 @@
 {
-  "generated_at": "2025-10-21T09:37:17.930148+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-10-21T12:10:28.926169+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
           "url": "https://wallstreetcn.com/articles/3757473",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
+        },
+        {
+          "title": "Blg大变天,功勋教练Bail卸任离队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
+        },
+        {
+          "title": "JKAI锐评王力宏单依纯爱错",
+          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美联储举行支付创新会议，讨论稳定币、人工智能和代币化，日本举行首相指名选举。",
@@ -41,65 +66,68 @@
           "time_info": "09时37分"
         },
         {
-          "title": "Blg大变天,功勋教练Bail卸任离队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
-          "source": "贴吧",
+          "title": "AI时代需要什么样的程序员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
+          "source": "澎湃新闻",
           "ranks": [
-            15
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "JKAI锐评王力宏单依纯爱错",
-          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "12时10分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "新加坡银行：投资者可能仍热衷于在金价回落时增加黄金配置",
+          "url": "https://flash.jin10.com/detail/20251021114921296800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
         {
           "title": "金价银价大反攻",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%8F%8D%E6%94%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%2523%26band_rank%3D7%26stream_entry_id%3D31%26pos%3D8%26cate%3D5001%26realpos%3D7%26lcate%3D5001%26display_time%3D1761010487%26pre_seqid%3D176101048719403134551104",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
         },
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31784199",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
         },
         {
           "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
           "url": "https://www.cls.cn/detail/2175165",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
         },
         {
           "title": "金价",
@@ -123,11 +151,24 @@
           "url": "https://www.cls.cn/detail/2175088",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
+        },
+        {
+          "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2174932",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
         },
         {
           "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
@@ -139,17 +180,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
-          "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2174932",
-          "source": "财联社热门",
+          "title": "为什么 Gemini 2.5pro 回答问题的时候 latex 格式总渲染不出数学公式的样子？",
+          "url": "https://www.zhihu.com/question/1917375398460781402",
+          "source": "知乎",
           "ranks": [
-            7
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "12时10分"
         }
       ]
     },
@@ -162,11 +220,12 @@
           "url": "https://www.cls.cn/detail/2175118",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
         }
       ]
     },
@@ -182,8 +241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时10分]"
         }
       ]
     }
