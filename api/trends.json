@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-28T09:37:25.479071+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-10-28T12:08:37.196458+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
           "url": "https://www.cls.cn/detail/2182682",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时08分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -26,41 +27,67 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时08分]"
         },
         {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "马斯克推出AI百科全书Grokipedia 挑战维基百科",
+          "url": "https://flash.jin10.com/detail/20251028115301733800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "12时08分"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
           "url": "https://wallstreetcn.com/articles/3758015",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时08分]"
+        },
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时08分]"
         },
         {
           "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
           "url": "https://www.cls.cn/detail/2182582",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时08分]"
+        },
+        {
+          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
+          "url": "https://www.zhihu.com/question/1959993472921633455",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时08分]"
         },
         {
           "title": "红杉资本领投初创公司Rogo 押注AI工具取代初级银行家的前景",
@@ -96,17 +123,6 @@
           "time_info": "09时37分"
         },
         {
-          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
-          "url": "https://www.zhihu.com/question/1959993472921633455",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
           "title": "鸿海拟投资最高420亿元新台币采购AI算力云端业务营业用资讯设备。",
           "url": "https://wallstreetcn.com/livenews/2994610",
           "source": "华尔街见闻-快讯",
@@ -132,7 +148,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -142,8 +158,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时08分]"
+        },
+        {
+          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
+          "url": "https://wallstreetcn.com/articles/3758018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "12时08分"
         },
         {
           "title": "金价",
@@ -181,8 +208,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时08分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高",
@@ -194,6 +221,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "随着持续的利好消息影响市场风险偏好，周二金银价格延续疲势，早盘时段现货黄金4000美元关口得而复失，白银回落至47美元下方；有消息称欧佩克+倾向于再度小幅增产，令油价承压，当前白银及美油显现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251028110428303800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     }
