@@ -1,546 +1,194 @@
 {
-  "generated_at": "2025-10-28T23:10:06.223717+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2025-10-29T09:36:11.750295+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 25,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
-          "url": "https://wallstreetcn.com/articles/3758001",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 23时10分]"
-        },
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
           "url": "https://wallstreetcn.com/articles/3758062",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
-          "url": "https://wallstreetcn.com/articles/3758015",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 23时10分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时08分]"
-        },
-        {
-          "title": "道富银行首席执行官：人工智能在银行对账方面存在巨大机遇。",
-          "url": "https://flash.jin10.com/detail/20251028175233244800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "马斯克推出AI百科全书Grokipedia 挑战维基百科",
-          "url": "https://flash.jin10.com/detail/20251028115301733800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时08分]"
-        },
-        {
-          "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
-          "url": "https://www.cls.cn/detail/2182582",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时08分]"
-        },
-        {
-          "title": "阿波罗联席总裁克莱曼：人工智能取代劳动力是“最重要的问题”。",
-          "url": "https://flash.jin10.com/detail/20251028224138369800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
-          "url": "https://www.zhihu.com/question/1959993472921633455",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时08分]"
-        },
-        {
-          "title": "AI 会让编程初学者更快入门，还是更快迷失？",
-          "url": "https://www.zhihu.com/question/1962181838035444178",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "道富银行首席执行官：所有的人工智能投资都流向了硬件，但真正的价值将体现在应用领域。",
-          "url": "https://flash.jin10.com/detail/20251028175103929800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "阿波罗高管Scott Kleinman：人工智能（AI）技术取代劳动力是“最重要的问题”。 私募将在好几年的时间内按更慢的速度销售。",
-          "url": "https://wallstreetcn.com/livenews/2995215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "“十五五”规划建议全文：加强原始创新和关键核心技术攻关、全面实施“人工智能+”行动、大力提振消费",
-          "url": "https://wallstreetcn.com/articles/3758062",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "亚马逊：人工智能是互联网诞生以来最具变革性的技术。",
-          "url": "https://wallstreetcn.com/livenews/2994997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "AI大战冠军教练竞猜S15",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "红杉资本领投初创公司Rogo 押注AI工具取代初级银行家的前景",
-          "url": "https://wallstreetcn.com/livenews/2994620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "巴克莱首席执行官：在一段时间内，大型银行的决策将更多地依赖人工，而非人工智能。",
-          "url": "https://flash.jin10.com/detail/20251028173818787800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "中信建投：持续推荐AI算力板块",
-          "url": "https://wallstreetcn.com/livenews/2994618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "花旗集团CEO弗雷泽：人工智能工具为花旗员工的绩效评估撰写初稿。",
-          "url": "https://flash.jin10.com/detail/20251028173808205800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "AI大电影葫芦兄弟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "鸿海拟投资最高420亿元新台币采购AI算力云端业务营业用资讯设备。",
-          "url": "https://wallstreetcn.com/livenews/2994610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "黑石与沙特AI公司Humain签署30亿美元数据中心协议",
-          "url": "https://wallstreetcn.com/livenews/2995198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "德国硅晶圆制造商Siltronic首席执行官：人工智能相关需求并未出现任何重大变化，公司正从中受益并积极参与其中。",
-          "url": "https://flash.jin10.com/detail/20251028173125997800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "中信建投：AI+IP助力高增长，漫剧高潜力赛道爆发",
-          "url": "https://wallstreetcn.com/livenews/2994600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
-          "source": "财联社热门",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时08分]"
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
-          "url": "https://wallstreetcn.com/articles/3758018",
-          "source": "华尔街见闻",
+          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
+          "url": "https://www.cls.cn/detail/2184071",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 23时10分]"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "LBMA预测金价一年内逼近5000美元，白银等金属同涨",
-          "url": "https://flash.jin10.com/detail/20251028175512834800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
-          "url": "https://wallstreetcn.com/articles/3758026",
+          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
+          "url": "https://wallstreetcn.com/articles/3758074",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
-          "url": "https://wallstreetcn.com/livenews/2995204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26stream_entry_id%3D31%26dgr%3D0%26pos%3D22%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D21%26display_time%3D1761614667%26pre_seqid%3D176161466794901954904122",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "金价突然杀跌原因何在",
-          "url": "https://www.toutiao.com/trending/7565674495126847531/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "金价是由什么决定的",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%98%AF%E7%94%B1%E4%BB%80%E4%B9%88%E5%86%B3%E5%AE%9A%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
-          "url": "https://wallstreetcn.com/livenews/2995218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "OpenAI CEO：将直播讨论新企业结构及其他重要内容",
-          "url": "https://flash.jin10.com/detail/20251028224945145800",
+          "title": "韩国科学部：美国与韩国签署技术繁荣谅解备忘录，包括加快人工智能创新。",
+          "url": "https://flash.jin10.com/detail/20251029091423779800",
           "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股的计划。",
-          "url": "https://flash.jin10.com/detail/20251028224651919800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
-          "url": "https://flash.jin10.com/detail/20251028222603957800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "特朗普东京晚宴聚焦日对美投资，OpenAI与Salesforce高管出席",
-          "url": "https://flash.jin10.com/detail/20251028173857141800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 23时10分]"
-        },
-        {
-          "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
-          "url": "https://wallstreetcn.com/livenews/2995018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
+          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
+          "url": "https://www.cls.cn/detail/2184178",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "美股收盘：三大指数齐刷历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "韩国总统李在明：将在亚太经合组织峰会上提出人工智能倡议。",
+          "url": "https://flash.jin10.com/detail/20251029085639260800",
+          "source": "金十数据",
           "ranks": [
-            14
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
-          "url": "https://wallstreetcn.com/livenews/2995188",
+          "title": "黄仁勋勾勒AI宏伟蓝图",
+          "url": "https://www.toutiao.com/trending/7566173103559032851/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "韩国总统李在明：亚太地区商界领袖通过合作助力实现共同繁荣。 希望在APEC工商领导人峰会上共同寻求危机解决方案。 保护主义和民族主义正在抬头，如今的贸易环境与20年前大不相同。 事实证明，危机时期互信是实现共同繁荣的关键。 供应链合作是关键。 将在亚太经合组织(APEC)峰会上提出人工智能倡议。",
+          "url": "https://wallstreetcn.com/livenews/2995457",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时10分"
+          "time_info": "09时36分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "金价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
-          "url": "https://wallstreetcn.com/livenews/2995212",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "金价跌破3900美元 未来会是什么走势",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B43900%E7%BE%8E%E5%85%83+%E6%9C%AA%E6%9D%A5%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E8%B5%B0%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "金价暴跌有投资者打算割肉离场",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%89%93%E7%AE%97%E5%89%B2%E8%82%89%E7%A6%BB%E5%9C%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D25%26realpos%3D25%26filter_type%3Drealtimehot%26flag%3D0%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E6%2589%2593%25E7%25AE%2597%25E5%2589%25B2%25E8%2582%2589%25E7%25A6%25BB%25E5%259C%25BA%26stream_entry_id%3D31%26band_rank%3D25%26dgr%3D0%26display_time%3D1761700893%26pre_seqid%3D17617008931500343426421",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "美股三大股指续创新高 英伟达涨近5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "随着持续的利好消息影响市场风险偏好，周二金银价格延续疲势，早盘时段现货黄金4000美元关口得而复失，白银回落至47美元下方；有消息称欧佩克+倾向于再度小幅增产，令油价承压，当前白银及美油显现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251028110428303800",
-          "source": "金十数据",
+          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
+          "url": "https://www.cls.cn/detail/2183967",
+          "source": "财联社热门",
           "ranks": [
-            28
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         }
       ]
     }
