@@ -1,29 +1,29 @@
 {
-  "generated_at": "2025-10-30T09:35:52.789661+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-10-30T12:08:12.549707+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-30）",
+          "url": "https://flash.jin10.com/detail/20251030120122104800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
         {
           "title": "三星电子：为灵活应对日益增长的人工智能需求，将于2026年战略性地加大投资。",
           "url": "https://flash.jin10.com/detail/20251030091854665800",
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +37,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时08分]"
+        },
+        {
+          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时08分]"
+        },
+        {
+          "title": "黄金暴涨暴跌AI都被问冒烟了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8CAI%E9%83%BD%E8%A2%AB%E9%97%AE%E5%86%92%E7%83%9F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D30%26band_rank%3D30%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%259A%25B4%25E6%25B6%25A8%25E6%259A%25B4%25E8%25B7%258CAI%25E9%2583%25BD%25E8%25A2%25AB%25E9%2597%25AE%25E5%2586%2592%25E7%2583%259F%25E4%25BA%2586%2523%26pos%3D30%26flag%3D1%26display_time%3D1761796989%26pre_seqid%3D17617969895410113174846",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
@@ -73,22 +95,12 @@
           "url": "https://wallstreetcn.com/articles/3758166",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
-          "url": "https://www.toutiao.com/trending/7566623844883431451/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时08分]"
         },
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -98,19 +110,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时08分]"
+        },
+        {
+          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
+          "url": "https://www.toutiao.com/trending/7566623844883431451/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时08分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
           "url": "https://wallstreetcn.com/articles/3758225",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时08分]"
         }
       ]
     },
@@ -123,11 +148,12 @@
           "url": "https://www.cls.cn/detail/2185569",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时08分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -137,8 +163,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时08分]"
         }
       ]
     }
