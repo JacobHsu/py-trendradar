@@ -1,379 +1,149 @@
 {
-  "generated_at": "2025-10-31T23:08:34.827420+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2025-11-01T09:36:39.571895+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "ai 人工智能",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 18时09分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-31）",
-          "url": "https://flash.jin10.com/detail/20251031115715805800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
-          "url": "https://wallstreetcn.com/livenews/2997796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 23时08分]"
-        },
-        {
-          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
-          "url": "https://wallstreetcn.com/articles/3758276",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时09分]"
-        },
-        {
-          "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
-          "url": "https://www.cls.cn/detail/2187024",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时09分]"
-        },
-        {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "10月31日午间收评：创业板指半日跌1.49%，AI应用、医药股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/2997369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
-          "url": "https://wallstreetcn.com/articles/3758381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
-          "url": "https://wallstreetcn.com/livenews/2997787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "英伟达一度上涨大约2.5%，报207.97美元。 据FactSet，高盛在其业绩报告披露前上调未来12个月股价目标至240美元（之前为210美元）、重申评级为买入。 分析师James Schneider认为，在大型科技公司和云公司的AI基础设施需求的助推之下，英伟达业绩将继续表现强劲。",
-          "url": "https://wallstreetcn.com/livenews/2997800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
-          "url": "https://wallstreetcn.com/livenews/2997776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "AI黄仁勋演讲骗倒10万老外",
-          "url": "https://www.toutiao.com/trending/7566996479697489462/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
-          "url": "https://flash.jin10.com/detail/20251031222512027800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "黄仁勋要做的不只是AI还要接管方向盘",
-          "url": "https://www.toutiao.com/trending/7566904243722915364/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        }
-      ]
-    },
     {
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
         {
-          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
-          "url": "https://wallstreetcn.com/articles/3758264",
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
           "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 23时08分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
-          "url": "https://www.cls.cn/detail/2187041",
-          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时09分]"
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
-          "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
-          "url": "https://wallstreetcn.com/livenews/2997795",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
           "url": "https://www.cls.cn/detail/2188280",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "小马智行美股盘前涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/2997604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "09时36分"
         },
         {
-          "title": "美股收盘：三大指数集体下跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
+          "url": "https://www.cls.cn/detail/2188453",
+          "source": "财联社热门",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "09时36分"
         },
         {
-          "title": "房地美股价下跌7%，跌至当日低点。",
-          "url": "https://flash.jin10.com/detail/20251031222848337800",
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251101040624223800",
           "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "房利美股价跌超10%，跌至8月11日以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20251031222759471800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2997769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
-          "url": "https://flash.jin10.com/detail/20251031092806995800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
-          "url": "https://wallstreetcn.com/livenews/2997790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "金价再度回落 但仍有望录得连续第三个月上涨",
-          "url": "https://flash.jin10.com/detail/20251031112238872800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "金价狂飙婚事耽搁2年女子发声",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D19%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D0%26band_rank%3D19%26filter_type%3Drealtimehot%26realpos%3D19%26lcate%3D5001%26c_type%3D31%26display_time%3D1761873819%26pre_seqid%3D17618738194960108760253",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "金价涨涨跌跌 旧首饰如何处理",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "09时36分"
         },
         {
-          "title": "摩根士丹利：金价或在2026年年中升至4500美元",
-          "url": "https://flash.jin10.com/detail/20251031222052069800",
+          "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251101040622397800",
           "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
+          "url": "https://flash.jin10.com/detail/20251101040612568800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
+          "url": "https://flash.jin10.com/detail/20251101040052519800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
+          "url": "https://wallstreetcn.com/livenews/2997900",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
+          "url": "https://wallstreetcn.com/articles/3758449",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
+          "url": "https://wallstreetcn.com/articles/3758382",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         }
       ]
     },
@@ -382,65 +152,54 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "比特币向上触及111000美元/枚，日内涨2.47%。",
-          "url": "https://flash.jin10.com/detail/20251031225655370800",
-          "source": "金十数据",
+          "title": "钱志敏在英国认罪，6.1万枚比特币市价已达493亿元，赃款归谁？",
+          "url": "https://news.ifeng.com/c/8nuCMek00su",
+          "source": "凤凰网",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
+        },
+        {
+          "title": "周五（10月31日，中本聪发布比特币白皮书十七周年纪念日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.73%，逼近11.0万美元，10月份累跌5.16%，10月6日涨至12.5万美元上方之后逐步下挫，10月17日跌至10.5万美元下方，之后低位震荡。 CME以太币期货DCR主力合约涨5.79%，报3919.50美元，10月份累跌7.09%，整体交投于4828.00-3690.00美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2997907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "“比特币富婆”钱志敏认罪",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
           "source": "百度热搜",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "比特币向上触及110000美元/枚，日内涨1.57%。",
-          "url": "https://flash.jin10.com/detail/20251031091037361800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "09时36分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
+          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
+          "url": "https://www.cls.cn/detail/2188436",
+          "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 23时08分]"
-        },
-        {
-          "title": "共和党参议员称谷歌人工智能模型针对保守派",
-          "url": "https://wallstreetcn.com/livenews/2997771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
         }
       ]
     }
