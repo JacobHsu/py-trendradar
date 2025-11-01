@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T12:07:59.429849+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-11-01T18:09:45.190810+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时09分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时09分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -123,19 +124,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时09分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
           "url": "https://wallstreetcn.com/articles/3758449",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时09分]"
         },
         {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
@@ -155,7 +157,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -166,7 +168,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
@@ -195,7 +197,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -220,6 +222,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         }
       ]
     },
