@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T12:10:11.094567+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-11-02T18:07:14.443204+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩国总统办公室：韩国与新加坡签署人工智能与绿色航运合作备忘录。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -42,6 +42,28 @@
           "time_info": "[09时36分 ~ 12时10分]"
         },
         {
+          "title": "刚刚，亚马逊的“AI转折点”出现了？",
+          "url": "https://wallstreetcn.com/articles/3758489",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
+          "url": "https://wallstreetcn.com/livenews/2998096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "AI革命美国企业疯狂裁员背后",
           "url": "https://www.toutiao.com/trending/7567900229551263258/",
           "source": "今日头条",
@@ -51,12 +73,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://wallstreetcn.com/livenews/2998093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -67,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 18时07分]"
         },
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -91,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         }
       ]
     },
@@ -116,7 +160,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
@@ -153,7 +197,7 @@
     },
     {
       "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“十月连涨神话”破灭！比特币本月跌近5%，六年来首次十月收跌",
@@ -165,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "比特币向上触及111000美元/枚，日内涨0.82%。",
+          "url": "https://flash.jin10.com/detail/20251102155529476800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         }
       ]
     }
