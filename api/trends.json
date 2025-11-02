@@ -1,122 +1,40 @@
 {
-  "generated_at": "2025-11-01T23:06:41.584345+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2025-11-02T09:36:47.909860+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 10,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 23时06分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时07分]"
-        },
-        {
-          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
-          "url": "https://www.cls.cn/detail/2188453",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时07分]"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251101040624223800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
         {
-          "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251101040622397800",
-          "source": "金十数据",
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
-          "url": "https://flash.jin10.com/detail/20251101040612568800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
-          "url": "https://flash.jin10.com/detail/20251101040052519800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
-          "url": "https://wallstreetcn.com/livenews/2997900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -126,130 +44,23 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 23时06分]"
-        },
-        {
-          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
-          "url": "https://wallstreetcn.com/articles/3758449",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 18时09分]"
-        },
-        {
-          "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
-          "url": "https://wallstreetcn.com/articles/3758382",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
-          "url": "https://flash.jin10.com/detail/20251101090947123800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
           "url": "https://wallstreetcn.com/articles/3758471",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "中美在AI治理路径上的分歧成焦点",
-          "url": "https://www.toutiao.com/trending/7567396544937705510/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
-          "url": "https://wallstreetcn.com/livenews/2997940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "钱志敏在英国认罪，6.1万枚比特币市价已达493亿元，赃款归谁？",
-          "url": "https://news.ifeng.com/c/8nuCMek00su",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时07分]"
-        },
-        {
-          "title": "比特币站上110000美元/枚，日内涨0.39%。",
-          "url": "https://flash.jin10.com/detail/20251101093255742800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "周五（10月31日，中本聪发布比特币白皮书十七周年纪念日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.73%，逼近11.0万美元，10月份累跌5.16%，10月6日涨至12.5万美元上方之后逐步下挫，10月17日跌至10.5万美元下方，之后低位震荡。 CME以太币期货DCR主力合约涨5.79%，报3919.50美元，10月份累跌7.09%，整体交投于4828.00-3690.00美元区间。",
-          "url": "https://wallstreetcn.com/livenews/2997907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
         {
-          "title": "“比特币富婆”钱志敏认罪",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
-          "source": "百度热搜",
+          "title": "AI革命美国企业疯狂裁员背后",
+          "url": "https://www.toutiao.com/trending/7567900229551263258/",
+          "source": "今日头条",
           "ranks": [
             24
           ],
@@ -260,50 +71,30 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
-          "url": "https://www.cls.cn/detail/2188436",
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
-            7,
-            8,
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "09时36分"
         }
       ]
     }
