@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T12:14:27.633964+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2025-11-03T18:10:19.263133+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 8,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI医疗为何引发巨头押注",
@@ -31,15 +31,105 @@
           "time_info": "[09时36分 ~ 12时14分]"
         },
         {
+          "title": "道达尔能源首席执行官：凭借炼油厂现有的数据，人工智能可以帮助产量提高1%，这将带来巨额收入。",
+          "url": "https://flash.jin10.com/detail/20251103174622626800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "苹果AI入华计划再延期",
+          "url": "https://wallstreetcn.com/livenews/2998516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "英国石油公司首席执行官：未来5到10年，受人工智能增长的推动，能源需求占全球经济的比例将从1%增长到10%。",
+          "url": "https://flash.jin10.com/detail/20251103174218589800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "李乐成：加快推进人工智能赋能新型工业化",
+          "url": "https://www.cls.cn/detail/2189189",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 18时10分]"
+        },
+        {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
           "url": "https://wallstreetcn.com/articles/3758501",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 18时10分]"
+        },
+        {
+          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
+          "url": "https://www.cls.cn/detail/2189431",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "18时10分"
+        },
+        {
+          "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
+          "url": "https://wallstreetcn.com/articles/3758523",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
+          "url": "https://wallstreetcn.com/articles/3758514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
@@ -48,7 +138,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -59,20 +149,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
         {
-          "title": "李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://www.cls.cn/detail/2189189",
-          "source": "财联社热门",
+          "title": "上海新增8款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/2998495",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "18时10分"
         },
         {
           "title": "中信证券：建议继续关注热度较高的科技方向，端侧AI预计成为新的催化线索",
@@ -92,7 +182,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
@@ -109,7 +199,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -131,9 +221,65 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
+          "url": "https://wallstreetcn.com/livenews/2998517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "谷歌母公司Alphabet拟发行至少30亿欧元债券 为AI扩张计划融资",
+          "url": "https://flash.jin10.com/detail/20251103173115660800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
+          "url": "https://wallstreetcn.com/livenews/2998506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "美股明星科技股盘前走高，美光科技(MU.O)盘前涨超4%，奈飞(NFLX.O)、Meta Platforms(META.O)、AMD(AMD.O)涨超1.2%，英伟达(NVDA.O)、高通(QCOM.O)涨约1%。",
+          "url": "https://flash.jin10.com/detail/20251103173003970800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         }
       ]
     },
@@ -148,7 +294,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
@@ -165,9 +311,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金税收新规出台后，招行实体金条价格已含税",
+          "url": "https://wallstreetcn.com/livenews/2998489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         }
       ]
     }
