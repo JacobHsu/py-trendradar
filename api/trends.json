@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T09:36:19.484319+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-11-03T12:14:27.633964+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI医疗为何引发巨头押注",
@@ -15,19 +15,64 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时14分]"
         },
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
           "url": "https://wallstreetcn.com/articles/3758489",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时14分]"
+        },
+        {
+          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
+          "url": "https://wallstreetcn.com/articles/3758501",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "12时14分"
+        },
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "李乐成：加快推进人工智能赋能新型工业化",
+          "url": "https://www.cls.cn/detail/2189189",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "中信证券：建议继续关注热度较高的科技方向，端侧AI预计成为新的催化线索",
@@ -39,13 +84,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "工信部部长李乐成：加快推进人工智能赋能新型工业化",
+          "url": "https://wallstreetcn.com/livenews/2998305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     },
     {
       "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "比特币失守108000美元/枚，日内跌幅2.30%。",
+          "url": "https://flash.jin10.com/detail/20251103112644373800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
         {
           "title": "比特币跌破110000美元/枚，日内跌0.50%。",
           "url": "https://flash.jin10.com/detail/20251103085315205800",
@@ -56,6 +123,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "以太坊跌破3800美元，比特币跌破109000美元",
+          "url": "https://wallstreetcn.com/livenews/2998302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://wallstreetcn.com/livenews/2998342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26realpos%3D22%26stream_entry_id%3D31%26pos%3D23%26band_rank%3D22%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26flag%3D2%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1762143106%26pre_seqid%3D17621431063490340409514&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     }
