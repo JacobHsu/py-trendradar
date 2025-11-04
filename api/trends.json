@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-04T18:11:02.732278+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2025-11-04T23:10:12.234920+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
+          "url": "https://wallstreetcn.com/articles/3758630",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 23时10分]"
+        },
         {
           "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
           "url": "https://www.cls.cn/detail/2190323",
@@ -42,17 +53,6 @@
           "time_info": "[09时35分 ~ 12时09分]"
         },
         {
-          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
-          "url": "https://wallstreetcn.com/articles/3758630",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 18时11分]"
-        },
-        {
           "title": "阿里巴巴发布国内科技企业首份《AI向善行动报告》",
           "url": "https://wallstreetcn.com/livenews/2998969",
           "source": "华尔街见闻-快讯",
@@ -81,11 +81,12 @@
           "ranks": [
             5,
             8,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 18时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 23时10分]"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
@@ -99,6 +100,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时35分 ~ 18时11分]"
+        },
+        {
+          "title": "AI养老的真正任务：让老人不必退场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 23时10分]"
         },
         {
           "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
@@ -123,16 +137,37 @@
           "time_info": "[18时10分 ~ 18时11分]"
         },
         {
-          "title": "AI养老的真正任务：让老人不必退场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
-          "source": "澎湃新闻",
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时09分 ~ 18时11分]"
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "美ICU宰客19万,AI揭底秒修复",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
+          "url": "https://www.cls.cn/detail/2190917",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "马斯克：体力劳动更难被AI取代",
@@ -155,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "原神AI重制短片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9EAI%E9%87%8D%E5%88%B6%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "韩国总统李在明：向人工智能社会的过渡是不可避免的。",
@@ -204,7 +250,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -214,8 +260,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时35分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 23时10分]"
         },
         {
           "title": "加密货币股票美股盘前下跌，Riot Platforms(RIOT.O)下跌4.6%，Hut 8跌4.5%，嘉楠科技(CAN.O)跌3.8%，Robinhood(HOOD.O)、Marathon Holdings(MARA.O)跌3.7%，Coinbase(COIN.O)跌3.3%。",
@@ -241,6 +287,28 @@
           "time_info": "[09时35分 ~ 12时09分]"
         },
         {
+          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251104224011768800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "美股三大股指集体低开",
+          "url": "https://flash.jin10.com/detail/20251104223028460800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘前下跌2.2%。",
           "url": "https://flash.jin10.com/detail/20251104171015435800",
           "source": "金十数据",
@@ -258,9 +326,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/2999272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "Metsera Inc.股票将在美东时间09:50（北京时间22:50，美股开盘后20分钟）恢复交易。 诺和诺德欧股目前跌0.81%，暂报312.75。 辉瑞制药美股盘前暂时跌1.09%。",
+          "url": "https://wallstreetcn.com/livenews/2999262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "华尔街多位CEO警告 美股可能因估值偏高出现逾10%的回调",
@@ -269,15 +359,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
@@ -290,6 +391,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时35分 ~ 12时09分]"
+        },
+        {
+          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2999277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "美元指数突破100大关，为8月1日来首次。",
@@ -316,6 +428,57 @@
       ]
     },
     {
+      "keyword_group": "比特币 BTC Bitcoin",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "加密货币周一继续“血崩”，部分代币已跌回10月闪崩低点，“比特币的机构需求7个月来首次低于挖矿速度”",
+          "url": "https://wallstreetcn.com/articles/3758598",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 23时10分]"
+        },
+        {
+          "title": "比特币失守103000美元/枚，日内跌幅3.37%。",
+          "url": "https://flash.jin10.com/detail/20251104223825527800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "比特币突破107000美元/枚，日内涨0.39%。",
+          "url": "https://flash.jin10.com/detail/20251104092302915800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "比特币触及6月以来最低水平",
+          "url": "https://wallstreetcn.com/livenews/2999240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -329,8 +492,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时35分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 23时10分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -343,34 +506,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时35分 ~ 12时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "加密货币周一继续“血崩”，部分代币已跌回10月闪崩低点，“比特币的机构需求7个月来首次低于挖矿速度”",
-          "url": "https://wallstreetcn.com/articles/3758598",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 18时11分]"
-        },
-        {
-          "title": "比特币突破107000美元/枚，日内涨0.39%。",
-          "url": "https://flash.jin10.com/detail/20251104092302915800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
         }
       ]
     },
