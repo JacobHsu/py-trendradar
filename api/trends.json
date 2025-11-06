@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-06T18:09:16.161109+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2025-11-06T23:08:04.884862+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
+          "url": "https://wallstreetcn.com/articles/3758820",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
         {
           "title": "新研究指出：AI能力或因有缺陷的测试而被夸大",
           "url": "https://flash.jin10.com/detail/20251106173500148800",
@@ -14,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -53,6 +64,29 @@
           "time_info": "[09时35分 ~ 12时11分]"
         },
         {
+          "title": "华为Mate 70 Air评测",
+          "url": "https://www.douyin.com/hot/2296483",
+          "source": "抖音",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 23时08分]"
+        },
+        {
+          "title": "Stagwell(STGW.O)开涨36%。消息面上，Stagwell宣布与Palantir(PLTR.N)建立合作伙伴关系，共同打造面向营销人员的AI驱动平台。",
+          "url": "https://flash.jin10.com/detail/20251106223131168800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
           "title": "美ICU宰客19万,AI揭底秒修复",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
           "source": "贴吧",
@@ -63,6 +97,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时35分 ~ 12时11分]"
+        },
+        {
+          "title": "微软(MSFT.O)AI组建超级智能团队，该团队将由苏莱曼领导。",
+          "url": "https://flash.jin10.com/detail/20251106221421640800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "鸿海首席执行官：未来数月内将在美国部署人形机器人，生产人工智能服务器。",
@@ -76,24 +121,13 @@
           "time_info": "09时35分"
         },
         {
-          "title": "华为Mate 70 Air评测",
-          "url": "https://www.douyin.com/hot/2296483",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
           "title": "受AI推动，美国10月挑战者企业裁员人数创逾20年同期新高",
           "url": "https://wallstreetcn.com/livenews/3000470",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -131,13 +165,24 @@
           "time_info": "09时35分"
         },
         {
+          "title": "微软AI组建SuperIntelligence团队，将由Suleyman领导。",
+          "url": "https://wallstreetcn.com/livenews/3000612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "打假AI温峥嵘不能只靠演员温峥嵘",
           "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87AI%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E6%BC%94%E5%91%98%E6%B8%A9%E5%B3%A5%E5%B5%98",
           "source": "百度热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -148,7 +193,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -159,7 +204,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -170,7 +215,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         }
@@ -178,7 +223,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -189,8 +234,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 18时09分]"
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 23时08分]"
         },
         {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
@@ -205,13 +250,24 @@
           "time_info": "[09时35分 ~ 12时11分]"
         },
         {
+          "title": "多邻国美股跌幅达创纪录的27%，股价跌至2024年8月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251106223241147800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
           "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
           "url": "https://wallstreetcn.com/livenews/3000481",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -228,6 +284,17 @@
           "time_info": "[09时35分 ~ 12时11分]"
         },
         {
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
           "title": "美股泡沫有多大？瑞银给出七个观测指标",
           "url": "https://wallstreetcn.com/articles/3758712",
           "source": "华尔街见闻",
@@ -240,21 +307,87 @@
           "time_info": "[09时35分 ~ 12时11分]"
         },
         {
+          "title": "美股三大股指集体低开",
+          "url": "https://flash.jin10.com/detail/20251106223025425800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
+          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/3000620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异。 网络股指数ETF跌0.61%，可选消费ETF跌0.54%，全球科技股指数ETF跌0.48%，科技行业ETF跌0.25%，半导体ETF跌0.09%。 银行业ETF则涨0.32%，能源业ETF涨0.63%",
+          "url": "https://wallstreetcn.com/livenews/3000619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "高通(QCOM.O)美股股价盘前下跌2.7%，此前该公司表示预计明年可能因三星而损失部分业务。",
           "url": "https://flash.jin10.com/detail/20251106172212943800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3000606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
+          "url": "https://wallstreetcn.com/livenews/3000605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
+          "url": "https://wallstreetcn.com/livenews/3000599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
@@ -263,7 +396,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -274,7 +407,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -290,6 +423,17 @@
           "time_info": "12时11分"
         },
         {
+          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3000270",
           "source": "华尔街见闻-快讯",
@@ -299,6 +443,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D27%26c_type%3D31%26dgr%3D0%26cate%3D5001%26realpos%3D27%26band_rank%3D27%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26lcate%3D5001%26display_time%3D1762441183%26pre_seqid%3D17624411832890340889336&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 BTC Bitcoin",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比特币回落至103000美元/枚下方，日内跌0.88%。",
+          "url": "https://flash.jin10.com/detail/20251106091930638800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "风险偏好改善 比特币企稳",
+          "url": "https://flash.jin10.com/detail/20251106222150134800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         }
       ]
     },
@@ -316,23 +516,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比特币回落至103000美元/枚下方，日内跌0.88%。",
-          "url": "https://flash.jin10.com/detail/20251106091930638800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
         }
       ]
     }
