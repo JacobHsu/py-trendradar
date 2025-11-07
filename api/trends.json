@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-07T09:37:38.623819+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-07T12:09:17.005598+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
           "url": "https://wallstreetcn.com/articles/3758820",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.19%，深成指跌0.73%，CPO、AI芯片、量子科技、PCB等方向跌幅居前，沪深京三市下跌个股超3100只。",
@@ -30,6 +31,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "阿里巴巴CEO吴泳铭：AI发展将经历三个阶段 加大投入打造超级AI云",
+          "url": "https://wallstreetcn.com/livenews/3000946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
           "url": "https://www.zhihu.com/question/1969700024775574500",
           "source": "知乎",
@@ -37,19 +49,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
         },
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
           "url": "https://wallstreetcn.com/articles/3758813",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -59,8 +72,41 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
+        },
+        {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "12时09分"
+        },
+        {
+          "title": "日本最大科技基金：AI股票仍有上涨空间，并非处于泡沫阶段",
+          "url": "https://flash.jin10.com/detail/20251107112904774800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "新加坡星展银行为AI重塑岗位 启动全员再培训计划",
+          "url": "https://flash.jin10.com/detail/20251107110917297800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "抖音回应温峥嵘被AI盗播",
@@ -72,12 +118,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "阿里巴巴CEO吴泳铭：建设超大规模AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3000905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -87,47 +144,61 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
           "url": "https://www.cls.cn/detail/2193555",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
           "url": "https://wallstreetcn.com/articles/3758853",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
           "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "12时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -137,8 +208,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
         },
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -148,8 +219,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
+        },
+        {
+          "title": "小摩：美股牛市格局未改，标普500指数近期料突破7000点",
+          "url": "https://flash.jin10.com/detail/20251107114842148800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "12时09分"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -165,6 +247,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
+          "url": "https://wallstreetcn.com/articles/3758839",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
+        },
+        {
+          "title": "如何评价 gemini-3-pro-preview-11-2025？",
+          "url": "https://www.zhihu.com/question/1969709439335530787",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -176,8 +286,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -187,25 +297,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
-          "url": "https://wallstreetcn.com/articles/3758839",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 12时09分]"
         }
       ]
     }
