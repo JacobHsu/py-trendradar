@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T12:09:17.005598+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2025-11-07T18:09:39.811795+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
@@ -37,9 +37,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "福建：遴选人工智能优质企业 给予每个企业一次性最高300万元奖励",
+          "url": "https://wallstreetcn.com/livenews/3001166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
@@ -65,6 +76,18 @@
           "time_info": "[09时37分 ~ 12时09分]"
         },
         {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 18时09分]"
+        },
+        {
           "title": "华为Mate 70 Air评测",
           "url": "https://www.douyin.com/hot/2296483",
           "source": "抖音",
@@ -76,15 +99,37 @@
           "time_info": "[09时37分 ~ 12时09分]"
         },
         {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
+          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
+          "url": "https://www.cls.cn/detail/2194008",
+          "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "18时09分"
+        },
+        {
+          "title": "AI正凶猛“加杠杆”",
+          "url": "https://wallstreetcn.com/articles/3758866",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
+          "url": "https://www.cls.cn/detail/2193935",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "日本最大科技基金：AI股票仍有上涨空间，并非处于泡沫阶段",
@@ -93,7 +138,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -104,7 +149,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -126,9 +171,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
+          "url": "https://wallstreetcn.com/livenews/3001120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "中国台湾10月出口狂增近50% AI需求与电子新品拉货共同发酵",
+          "url": "https://wallstreetcn.com/livenews/3001112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         }
       ]
     },
@@ -148,24 +215,25 @@
           "time_info": "[09时37分 ~ 12时09分]"
         },
         {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 18时09分]"
+        },
+        {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
           "url": "https://www.cls.cn/detail/2193555",
           "source": "财联社热门",
           "ranks": [
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时09分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -190,7 +258,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
@@ -198,7 +266,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -208,8 +276,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 18时09分]"
         },
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -229,7 +297,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -243,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
+          "url": "https://wallstreetcn.com/livenews/3001114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         }
       ]
     },
@@ -255,11 +334,12 @@
           "url": "https://wallstreetcn.com/articles/3758839",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 18时09分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -268,7 +348,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
