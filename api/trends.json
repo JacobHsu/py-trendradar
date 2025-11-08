@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T12:08:03.385113+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2025-11-08T18:13:08.340323+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "国办：加强人工智能领域关键核心技术攻关和推广应用，推动海陆空全空间无人体系应用和标准建设",
@@ -16,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 18时13分]"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 18时13分]"
         },
         {
           "title": "“六小龙”乌镇对话思考AI和未来",
@@ -31,15 +43,15 @@
           "time_info": "[12时07分 ~ 12时08分]"
         },
         {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
+          "title": "今年的乌镇AI含量拉满了",
+          "url": "https://www.douyin.com/hot/2297632",
+          "source": "抖音",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
@@ -52,6 +64,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时34分 ~ 12时08分]"
+        },
+        {
+          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3758961",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
@@ -109,13 +132,24 @@
           "time_info": "09时34分"
         },
         {
+          "title": "世界互联网大会蓝皮书：人工智能向全域赋能发展",
+          "url": "https://wallstreetcn.com/livenews/3001525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
           "url": "https://wallstreetcn.com/livenews/3001465",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -142,11 +176,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 18时13分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -154,11 +189,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 18时13分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -222,7 +258,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -246,6 +282,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -259,6 +312,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 BTC Bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币失守102000美元/枚，日内跌幅1.30%。",
+          "url": "https://flash.jin10.com/detail/20251108153012783800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         }
       ]
     }
