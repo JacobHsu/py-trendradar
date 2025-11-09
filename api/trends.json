@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-11-09T12:08:38.804930+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2025-11-09T18:07:37.030705+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
           "url": "https://www.zhihu.com/question/1970150431255684262",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 18时07分]"
+        },
+        {
+          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
+          "url": "https://wallstreetcn.com/livenews/3001665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
@@ -35,23 +47,12 @@
           "url": "https://www.cls.cn/detail/2193939",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时08分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
-          "url": "https://wallstreetcn.com/livenews/3001608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 18时07分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年11月8日",
@@ -60,6 +61,18 @@
           "ranks": [
             20,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 18时07分]"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
+          "url": "https://wallstreetcn.com/livenews/3001608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -84,9 +97,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "研究员：AI或取代绝大部分人类工作",
+          "url": "https://www.toutiao.com/trending/7570635868688354825/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
@@ -106,9 +130,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
+          "url": "https://wallstreetcn.com/articles/3758983",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
+          "url": "https://wallstreetcn.com/articles/3758988",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
+          "url": "https://flash.jin10.com/detail/20251109154126817800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
@@ -135,6 +192,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时08分]"
+        },
+        {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -148,23 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时08分]"
         }
       ]
     }
