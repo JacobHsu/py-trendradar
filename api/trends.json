@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T18:09:56.895916+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2025-11-11T23:07:58.936037+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -47,11 +47,12 @@
           "ranks": [
             9,
             16,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 18时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 23时07分]"
         },
         {
           "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
@@ -64,6 +65,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时36分 ~ 12时10分]"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 23时07分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -118,7 +131,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -129,7 +142,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -156,24 +169,13 @@
           "time_info": "09时36分"
         },
         {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
           "title": "AI制药商英矽智能冲刺港股IPO，核心产品已获中国CDE确认可开展III期临床试验",
           "url": "https://wallstreetcn.com/livenews/3002688",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -184,7 +186,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         }
@@ -192,7 +194,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -212,9 +214,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251111223618970800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "禾赛美股盘前涨超6%，公司第三季度的净收入7.95亿元，同比增加47.5%。",
@@ -223,7 +236,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -260,13 +273,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "美股开盘，道指涨0.03%，标普500指数跌0.21%，纳指跌0.48%。英伟达(NVDA.O)跌2.28%，软银称已于10月清仓英伟达并套现58亿美元。Coreweave(CRWV.O)跌9.3%，公司面临盈利性扩张质疑。Beyond Meat(BYND.O)跌7.1%，第四季度销售预期疲软。",
+          "url": "https://flash.jin10.com/detail/20251111223032758800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "美股盘初，行业ETF多数走高，能源业ETF涨0.94%，银行业ETF涨0.47%，可选消费ETF与全球航空业ETF大致持平。 网络股指数ETF跌0.28%，科技行业ETF跌0.62%，半导体ETF跌0.94%",
+          "url": "https://wallstreetcn.com/livenews/3002861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数美股盘初涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3002859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3002846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "据The Information：OpenAI的星际之门项目获得了Blue Owl资产管理公司30亿美元的投资。",
+          "url": "https://flash.jin10.com/detail/20251111223210672800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
         {
           "title": "科技股估值飙升带动软银Q3利润大涨，旗下基金清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
@@ -274,7 +353,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -285,9 +364,37 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Gemini Space Station Inc.（GEMI）低开14%。",
+          "url": "https://wallstreetcn.com/livenews/3002863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "DownDetector：一名用户报告称，谷歌旗下YouTube出现故障。",
+          "url": "https://wallstreetcn.com/livenews/3002853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         }
       ]
     },
@@ -300,11 +407,12 @@
           "url": "https://www.cls.cn/detail/2197016",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 23时07分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）上海金早盘价为948.23元/克，较国际金价(947.89元/克)，高0.34元/克",
@@ -316,6 +424,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以太坊 以太币 ETH Ethereum",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "稳定币巨头Tether高薪挖角汇丰顶级黄金交易员，进军贵金属市场",
+          "url": "https://wallstreetcn.com/livenews/3002848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "稳定币巨头Tether斥巨资从汇丰挖角 加码黄金储备",
+          "url": "https://flash.jin10.com/detail/20251111215425802800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 BTC Bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币突破10.7万美元后回落 市场情绪谨慎且缺乏新的增长动能",
+          "url": "https://flash.jin10.com/detail/20251111220935637800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         }
       ]
     }
