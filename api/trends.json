@@ -1,61 +1,11 @@
 {
-  "generated_at": "2025-11-15T09:35:08.749525+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-15T12:08:03.751874+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
-          "url": "https://wallstreetcn.com/articles/3759375",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 09时35分]"
-        },
-        {
-          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
-          "url": "https://www.cls.cn/detail/2201442",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 09时35分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 09时35分]"
-        },
-        {
-          "title": "Clearwater Analytics美股盘后涨近16%，彭博报道称，华平投资（Warburg）与私募股权公司Permira拟收购Clearwater Analytics。",
-          "url": "https://wallstreetcn.com/livenews/3005095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -65,8 +15,31 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时08分]"
+        },
+        {
+          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
+          "url": "https://wallstreetcn.com/articles/3759431",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时34分 ~ 09时35分]"
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
+          "url": "https://www.cls.cn/detail/2201480",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时08分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，建仓谷歌",
@@ -80,21 +53,84 @@
           "time_info": "[09时34分 ~ 09时35分]"
         },
         {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
+          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
+          "url": "https://flash.jin10.com/detail/20251115093238774800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时34分 ~ 09时35分]"
+          "time_info": "[12时07分 ~ 12时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
+          "url": "https://wallstreetcn.com/articles/3759375",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时08分]"
+        },
+        {
+          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
+          "url": "https://www.cls.cn/detail/2201442",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时08分]"
+        },
+        {
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时08分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "Clearwater Analytics美股盘后涨近16%，彭博报道称，华平投资（Warburg）与私募股权公司Permira拟收购Clearwater Analytics。",
+          "url": "https://wallstreetcn.com/livenews/3005095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
         }
       ]
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -104,19 +140,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时08分]"
+        },
+        {
+          "title": "AI爆梗王?串子罗伯特炸翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时34分 ~ 09时35分]"
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
           "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
           "url": "https://wallstreetcn.com/articles/3759419",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 09时35分]"
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时08分]"
         },
         {
           "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
@@ -133,7 +181,7 @@
     },
     {
       "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
@@ -143,8 +191,36 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时08分]"
+        },
+        {
+          "title": "比特币突破96000美元/枚，日内涨近1.5%。",
+          "url": "https://flash.jin10.com/detail/20251115104155086800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时34分 ~ 09时35分]"
+          "time_info": "[12时07分 ~ 12时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "云南铜业：黄金价格上涨对公司整体业绩增长影响有限",
+          "url": "https://wallstreetcn.com/livenews/3005134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     }
