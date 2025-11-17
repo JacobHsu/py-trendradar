@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T18:08:39.699192+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2025-11-17T23:08:42.333447+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时35分 ~ 12时11分]"
+        },
+        {
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 23时08分]"
         },
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -42,15 +54,15 @@
           "time_info": "09时35分"
         },
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
+          "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
+          "url": "https://wallstreetcn.com/livenews/3005945",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "23时08分"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -64,6 +76,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时35分 ~ 18时08分]"
+        },
+        {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 23时08分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 23时08分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -100,28 +136,6 @@
           "time_info": "12时11分"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
           "title": "阿里国际站推出AI Mode",
           "url": "https://wallstreetcn.com/livenews/3005547",
           "source": "华尔街见闻-快讯",
@@ -142,96 +156,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美被曝伪造证据黑吃黑窃取巨额比特币",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E8%A2%AB%E6%9B%9D%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE%E9%BB%91%E5%90%83%E9%BB%91%E7%AA%83%E5%8F%96%E5%B7%A8%E9%A2%9D%E6%AF%94%E7%89%B9%E5%B8%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D3%26flag%3D0%26band_rank%3D3%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%25BE%258E%25E8%25A2%25AB%25E6%259B%259D%25E4%25BC%25AA%25E9%2580%25A0%25E8%25AF%2581%25E6%258D%25AE%25E9%25BB%2591%25E5%2590%2583%25E9%25BB%2591%25E7%25AA%2583%25E5%258F%2596%25E5%25B7%25A8%25E9%25A2%259D%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%2523%26dgr%3D0%26pos%3D2%26display_time%3D1763373959%26pre_seqid%3D17633739593180281380178&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         },
         {
-          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
-          "url": "https://wallstreetcn.com/articles/3759492",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 18时08分]"
-        },
-        {
-          "title": "新加坡交易所：将于11月24日推出比特币和以太坊永续期货。比特币、以太坊永续期货仅面向合格的机构投资者。",
-          "url": "https://wallstreetcn.com/livenews/3005774",
+          "title": "戴尔科技与英伟达升级企业AI创新，加速AI应用的部署。",
+          "url": "https://wallstreetcn.com/livenews/3005942",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "美被曝伪造证据黑吃黑窃取巨额比特币",
-          "url": "https://www.toutiao.com/trending/7572930273534345226/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "新加坡交易所将向机构投资者推出比特币和以太坊永续期货合约",
-          "url": "https://flash.jin10.com/detail/20251117172508759800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "比特币跌破 95000 美元，较上月高点跌 24%，以太坊跌破 3100 美元，币圈转熊了吗？会有哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/1972648998557982926",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "新加坡交易所：将于11月24日推出比特币和以太坊永续期货。比特币、以太坊永续期货仅面向合格的机构投资者。",
-          "url": "https://flash.jin10.com/detail/20251117172038648800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "23时08分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
@@ -239,11 +180,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 23时08分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -269,15 +211,81 @@
           "time_info": "09时35分"
         },
         {
+          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2202991",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "谷歌母公司Alphabet涨5.5%，盘中市值3.5万亿美元，13F报告显示，伯克希尔哈撒韦建仓做多该公司股票，为其第十大美股重仓股。",
+          "url": "https://wallstreetcn.com/livenews/3005936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "亚马逊AWS、Azure、谷歌云面临被纳入欧盟数字法律调查的风险。",
+          "url": "https://wallstreetcn.com/livenews/3005931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3005762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "谷歌与Meta推迟红海（铺设海底）光缆项目，当前当地存在（与以色列相关的）安全风险。",
+          "url": "https://wallstreetcn.com/livenews/3005929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美股开盘，道指跌96点，标普500指数跌0.37%，纳指跌0.5%。谷歌A(GOOGL.O)涨3.3%，公司获巴菲特首次建仓。诺和诺德(NVO.N)跌0.7%、礼来(LLY.N)跌2.6%，此前诺和诺德下调减肥药价格。小鹏汽车(XPEV.N)绩后跌3.6%。",
+          "url": "https://flash.jin10.com/detail/20251117223042556800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "市场消息：亚马逊云服务(AWS)、微软云服务平台Azure、谷歌云有被纳入欧盟数字法案的风险。",
+          "url": "https://flash.jin10.com/detail/20251117222715841800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
@@ -286,7 +294,103 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 BTC Bitcoin",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美被曝伪造证据黑吃黑窃取巨额比特币",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E8%A2%AB%E6%9B%9D%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE%E9%BB%91%E5%90%83%E9%BB%91%E7%AA%83%E5%8F%96%E5%B7%A8%E9%A2%9D%E6%AF%94%E7%89%B9%E5%B8%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D3%26flag%3D0%26band_rank%3D3%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%25BE%258E%25E8%25A2%25AB%25E6%259B%259D%25E4%25BC%25AA%25E9%2580%25A0%25E8%25AF%2581%25E6%258D%25AE%25E9%25BB%2591%25E5%2590%2583%25E9%25BB%2591%25E7%25AA%2583%25E5%258F%2596%25E5%25B7%25A8%25E9%25A2%259D%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%2523%26dgr%3D0%26pos%3D2%26display_time%3D1763373959%26pre_seqid%3D17633739593180281380178&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
+          "url": "https://wallstreetcn.com/articles/3759492",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 23时08分]"
+        },
+        {
+          "title": "新加坡交易所：将于11月24日推出比特币和以太坊永续期货。比特币、以太坊永续期货仅面向合格的机构投资者。",
+          "url": "https://wallstreetcn.com/livenews/3005774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "比特币短线拉升，从94000美元一线涨至接近96000美元的水平并刷新日高，北京时间22:00还曾回落至93500美元，几乎完全回吐日内稍早涨幅，并逼近亚太盘初微跌并刷新的日低92935.50美元。",
+          "url": "https://wallstreetcn.com/livenews/3005940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美被曝伪造证据黑吃黑窃取巨额比特币",
+          "url": "https://www.toutiao.com/trending/7572930273534345226/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "新加坡交易所将向机构投资者推出比特币和以太坊永续期货合约",
+          "url": "https://flash.jin10.com/detail/20251117172508759800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "比特币跌破 95000 美元，较上月高点跌 24%，以太坊跌破 3100 美元，币圈转熊了吗？会有哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/1972648998557982926",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "新加坡交易所：将于11月24日推出比特币和以太坊永续期货。比特币、以太坊永续期货仅面向合格的机构投资者。",
+          "url": "https://flash.jin10.com/detail/20251117172038648800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         }
@@ -294,7 +398,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股加密货币概念股票盘前走高，Coinbase上涨1%，Bitfarms上涨2.3%，Strategy上涨1.4%。",
@@ -303,9 +407,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
+          "url": "https://wallstreetcn.com/livenews/3005939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美股锂矿股集体上涨，标准锂业股价上涨9.3%，西格玛锂业股价飙升20.8%。ALBEMARLE股价上涨6.2%，智利矿业化工公司上涨7.6%，美国锂业公司涨11.1%。",
+          "url": "https://wallstreetcn.com/livenews/3005938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "行业ETF美股盘初多数下跌，全球科技股指数ETF跌1.03%，科技行业ETF跌0.9%，能源业ETF跌0.73%，半导体ETF跌0.63%，银行业ETF跌0.51%，网络股指数ETF则涨0.22%。 标普科技板块跌0.88%，能源板块跌0.7%，电信板块则涨2.06%。",
+          "url": "https://wallstreetcn.com/livenews/3005934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
@@ -314,9 +451,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3005923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
@@ -333,8 +481,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
         {
           "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
           "url": "https://wallstreetcn.com/articles/3759498",
@@ -342,7 +501,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
