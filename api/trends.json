@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-19T18:08:34.370127+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2025-11-19T23:09:30.167522+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 23时09分]"
+        },
         {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
           "url": "https://flash.jin10.com/detail/20251119120532267800",
@@ -41,15 +53,15 @@
           "time_info": "09时35分"
         },
         {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
+          "title": "快手程一笑：可灵AI将重点聚焦AI影视制作场景 视频生成赛道仍在早期",
+          "url": "https://wallstreetcn.com/livenews/3007274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "23时09分"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -57,11 +69,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 23时09分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -89,6 +102,18 @@
           "time_info": "[09时35分 ~ 18时08分]"
         },
         {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 23时09分]"
+        },
+        {
           "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
           "url": "https://www.cls.cn/detail/2204353",
           "source": "财联社热门",
@@ -111,17 +136,6 @@
           "time_info": "09时35分"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
           "title": "20年来首现“过度投资”！美银基金经理调查：AI泡沫已成市场上最大“尾部投资”",
           "url": "https://wallstreetcn.com/articles/3759640",
           "source": "华尔街见闻",
@@ -139,9 +153,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "AI音乐平台Suno按24.5亿美元估值融资2.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3007269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
@@ -188,6 +213,17 @@
           "time_info": "09时35分"
         },
         {
+          "title": "人工智能音乐平台Suno确认估值达24.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119221642639800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "金十整理：沙特与美国合作细则一览——防务、核能、AI与万亿美元投资勾勒新同盟关系",
           "url": "https://flash.jin10.com/detail/20251119110504493800",
           "source": "金十数据",
@@ -210,6 +246,17 @@
           "time_info": "09时35分"
         },
         {
+          "title": "市场消息：Informatica深化与微软的合作，以可信数据加速企业生成式Ai的发展。",
+          "url": "https://flash.jin10.com/detail/20251119220939812800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "埃隆·马斯克以及英伟达首席执行官黄仁勋周三将在华盛顿举行的美国-沙特投资论坛上参加关于AI/技术的讨论。（路透）",
           "url": "https://wallstreetcn.com/livenews/3006884",
           "source": "华尔街见闻-快讯",
@@ -224,8 +271,21 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 23时09分]"
+        },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
           "url": "https://www.cls.cn/detail/2204346",
@@ -238,16 +298,17 @@
           "time_info": "[09时35分 ~ 12时09分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
           "ranks": [
-            6,
+            8,
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时35分 ~ 18时08分]"
+          "time_info": "[12时09分 ~ 23时09分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -272,6 +333,17 @@
           "time_info": "09时35分"
         },
         {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "Gemini3为何是目前最强AI",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
           "source": "bilibili 热搜",
@@ -283,18 +355,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时35分 ~ 18时08分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 18时08分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -313,17 +373,29 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 23时09分]"
+        },
+        {
+          "title": "美股三大股指接近平开，谷歌(GOOG.O)涨1.1%，此前发布超强模型Gemini 3；英伟达(NVDA.O)涨1.7%，公司将于盘后公布财报；搜索引擎营销公司Semrush(SEMR.N)涨74%，Adobe计划以19亿美元收购该公司。纳斯达克中国金龙指数跌0.88%。",
+          "url": "https://flash.jin10.com/detail/20251119223031711800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "23时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
@@ -337,6 +409,28 @@
           "time_info": "[09时35分 ~ 12时09分]"
         },
         {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.32%，区域银行ETF涨0.61%，银行业ETF涨0.54%，半导体ETF涨0.39%，网络股指数ETF则跌0.15%，能源业ETF跌1.88%。",
+          "url": "https://wallstreetcn.com/livenews/3007277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2205477",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "美股科技股遭抛售 英伟达跌近3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E6%8A%9B%E5%94%AE+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%BF%913%25",
           "source": "百度热搜",
@@ -346,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3007260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "花旗将携程美股目标价由85美元上调至86美元，预计携程出境业务营收仍能维持中双位数增长。",
@@ -384,8 +489,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 18时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 23时09分]"
         }
       ]
     },
@@ -401,8 +506,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 18时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 23时09分]"
         }
       ]
     }
