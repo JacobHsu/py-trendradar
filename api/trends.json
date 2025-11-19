@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T12:09:23.417837+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-11-19T18:08:34.370127+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -25,18 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -52,26 +41,39 @@
           "time_info": "09时35分"
         },
         {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 18时08分]"
+        },
+        {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759633",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时09分]"
-        },
-        {
-          "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
-          "url": "https://www.cls.cn/detail/2204353",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 18时08分]"
         },
         {
           "title": "Plain Jane Remix编舞跳起来",
@@ -79,7 +81,19 @@
           "source": "抖音",
           "ranks": [
             26,
-            28
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 18时08分]"
+        },
+        {
+          "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
+          "url": "https://www.cls.cn/detail/2204353",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -97,6 +111,17 @@
           "time_info": "09时35分"
         },
         {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "20年来首现“过度投资”！美银基金经理调查：AI泡沫已成市场上最大“尾部投资”",
           "url": "https://wallstreetcn.com/articles/3759640",
           "source": "华尔街见闻",
@@ -108,13 +133,24 @@
           "time_info": "09时35分"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
           "url": "https://www.cls.cn/detail/2204415",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -136,7 +172,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -158,7 +194,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -180,7 +216,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
@@ -188,7 +224,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -200,6 +236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时35分 ~ 12时09分]"
+        },
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 18时08分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -229,11 +277,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 18时08分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时09分]"
+          "time_info": "[12时09分 ~ 18时08分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -248,26 +309,15 @@
           "time_info": "[09时35分 ~ 12时09分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时09分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "18时08分"
         }
       ]
     },
@@ -304,7 +354,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -315,7 +365,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
@@ -334,8 +384,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 18时08分]"
         }
       ]
     },
@@ -351,8 +401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 18时08分]"
         }
       ]
     }
