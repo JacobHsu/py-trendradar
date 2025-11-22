@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-22T12:07:44.740779+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2025-11-22T18:07:39.050799+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207918",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 18时07分]"
+        },
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
           "url": "https://wallstreetcn.com/articles/3759864",
@@ -24,17 +36,6 @@
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 12时07分]"
-        },
-        {
-          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2207918",
-          "source": "财联社热门",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -99,6 +100,17 @@
           "time_info": "09时34分"
         },
         {
+          "title": "华为AI突破性技术揭晓！",
+          "url": "https://wallstreetcn.com/articles/3759882",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "胡彦斌疑似承认恋情：接吻视频非AI",
           "url": "https://www.toutiao.com/trending/7575051643448741439/",
           "source": "今日头条",
@@ -108,6 +120,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        },
+        {
+          "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
+          "url": "https://wallstreetcn.com/livenews/3008967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
+          "url": "https://flash.jin10.com/detail/20251122151156685800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "胡彦斌 不是AI的",
@@ -124,7 +158,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
@@ -134,8 +168,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 18时07分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -173,6 +207,17 @@
           "time_info": "[09时34分 ~ 12时07分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
           "url": "https://www.cls.cn/detail/2207754",
           "source": "财联社热门",
@@ -193,6 +238,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 18时07分]"
+        },
+        {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 18时07分]"
+        },
+        {
+          "title": "Gemini3玩法大全",
+          "url": "https://www.douyin.com/hot/2314134",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     },
@@ -241,47 +339,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
-          "url": "https://wallstreetcn.com/articles/3759889",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 12时07分]"
-        },
-        {
-          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
-          "url": "https://wallstreetcn.com/articles/3759885",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "Gemini3玩法大全",
-          "url": "https://www.douyin.com/hot/2314134",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
