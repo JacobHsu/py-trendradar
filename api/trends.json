@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T18:07:39.050799+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-11-22T23:06:32.147578+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 23时06分]"
         },
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时34分 ~ 12时07分]"
+        },
+        {
+          "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
+          "url": "https://wallstreetcn.com/livenews/3009021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
@@ -89,6 +100,17 @@
           "time_info": "[09时34分 ~ 12时07分]"
         },
         {
+          "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
+          "url": "https://www.zhihu.com/question/1975471032841232421",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "关注AI泡沫，别只盯着英伟达和甲骨文CDS，美国万亿“私募信贷”正在爆大雷",
           "url": "https://wallstreetcn.com/articles/3759841",
           "source": "华尔街见闻",
@@ -106,9 +128,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "胡彦斌疑似承认恋情：接吻视频非AI",
@@ -122,13 +155,24 @@
           "time_info": "09时34分"
         },
         {
+          "title": "中欧专家呼吁加强人工智能领域务实合作",
+          "url": "https://wallstreetcn.com/livenews/3009007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
           "url": "https://wallstreetcn.com/livenews/3008967",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -139,7 +183,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -153,6 +197,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        },
+        {
+          "title": "AI产业为何成为烧钱竞赛",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 18时07分]"
+        },
+        {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 18时07分]"
+        },
+        {
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "Gemini3玩法大全",
+          "url": "https://www.douyin.com/hot/2314134",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     },
@@ -165,11 +306,12 @@
           "url": "https://www.cls.cn/detail/2207916",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 23时06分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -181,6 +323,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        },
+        {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时06分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -207,17 +361,6 @@
           "time_info": "[09时34分 ~ 12时07分]"
         },
         {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
           "url": "https://www.cls.cn/detail/2207754",
           "source": "财联社热门",
@@ -238,59 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
-          "url": "https://wallstreetcn.com/articles/3759889",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 18时07分]"
-        },
-        {
-          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
-          "url": "https://wallstreetcn.com/articles/3759885",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 18时07分]"
-        },
-        {
-          "title": "Gemini3玩法大全",
-          "url": "https://www.douyin.com/hot/2314134",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
-          "url": "https://www.cls.cn/detail/2207169",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
         }
       ]
     },
@@ -342,6 +432,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     }
