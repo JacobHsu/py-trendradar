@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T12:17:29.654351+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-11-23T18:07:09.639300+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 18时07分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -24,23 +24,24 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时07分]"
         },
         {
-          "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
-          "url": "https://wallstreetcn.com/livenews/3009021",
-          "source": "华尔街见闻-快讯",
+          "title": "第一批AI公司，已经开始破产了",
+          "url": "https://wallstreetcn.com/articles/3759937",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            10
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 18时07分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -48,11 +49,69 @@
           "source": "知乎",
           "ranks": [
             6,
-            17
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 18时07分]"
+        },
+        {
+          "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
+          "url": "https://wallstreetcn.com/livenews/3009021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时07分]"
+        },
+        {
+          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
+          "url": "https://wallstreetcn.com/articles/3759951",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时17分]"
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。我们的目标是每12个月将一种新的人工智能芯片设计投入批量生产。我们预计最终生产的芯片数量将超过所有其他人工智能芯片的总和。",
+          "url": "https://flash.jin10.com/detail/20251123155316784800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
+          "url": "https://www.zhihu.com/question/1974446156558910121",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -67,15 +126,26 @@
           "time_info": "[09时36分 ~ 12时17分]"
         },
         {
-          "title": "第一批AI公司，已经开始破产了",
-          "url": "https://wallstreetcn.com/articles/3759937",
-          "source": "华尔街见闻",
+          "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
+          "url": "https://flash.jin10.com/detail/20251123140222907800",
+          "source": "金十数据",
           "ranks": [
-            7
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
+          "url": "https://wallstreetcn.com/livenews/3009047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "18时07分"
         },
         {
           "title": "AI又团灭一个行业",
@@ -84,7 +154,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -103,7 +173,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -117,6 +187,17 @@
           "time_info": "[09时36分 ~ 12时17分]"
         },
         {
+          "title": "Gemini3.0炸裂玩法合集",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
           "url": "https://wallstreetcn.com/articles/3759917",
           "source": "华尔街见闻",
@@ -126,6 +207,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 18时07分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -138,17 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时36分 ~ 12时17分]"
-        },
-        {
-          "title": "Gemini3适合用来编程吗",
-          "url": "https://www.douyin.com/hot/2314319",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
         }
       ]
     },
@@ -173,11 +255,12 @@
           "url": "https://www.cls.cn/detail/2207916",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 18时07分]"
         },
         {
           "title": "“疫苗之王”科兴或从美股退市",
@@ -194,18 +277,30 @@
     },
     {
       "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%；以太坊向上触及2800美元/枚，日内涨1.11%。",
           "url": "https://wallstreetcn.com/livenews/3009032",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 18时07分]"
+        },
+        {
+          "title": "反弹难掩颓势，比特币创Terra崩盘后最大月跌幅，“极度恐慌”暗示跌势未止？",
+          "url": "https://wallstreetcn.com/articles/3759947",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%。",
@@ -214,7 +309,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
@@ -248,7 +343,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
