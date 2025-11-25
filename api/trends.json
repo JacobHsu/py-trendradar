@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T09:35:53.317839+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-11-25T12:11:39.349250+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
@@ -19,6 +19,18 @@
           "time_info": "09时35分"
         },
         {
+          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
+          "url": "https://www.cls.cn/detail/2209653",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
+        },
+        {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
           "url": "https://www.cls.cn/detail/2209616",
           "source": "财联社热门",
@@ -26,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
@@ -37,8 +49,31 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
+        },
+        {
+          "title": "两美刀逼疯AI!怒要报官告公司",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
+        },
+        {
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时11分"
         },
         {
           "title": "美联储卡什卡利：人工智能确实有实际应用场景，但加密货币领域却没有。",
@@ -52,26 +87,15 @@
           "time_info": "09时35分"
         },
         {
-          "title": "两美刀逼疯AI!怒要报官告公司",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
-          "url": "https://www.cls.cn/detail/2209653",
-          "source": "财联社热门",
+          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
+          "url": "https://www.zhihu.com/question/1976013755256153204",
+          "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时11分"
         },
         {
           "title": "美国明尼阿波利斯联储主席Kashkari：人们因通胀而感到经济困难。 AI确实有真实应用场景，但加密货币没有。",
@@ -105,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "创业板指涨3%，深成指涨超2%，沪指涨超1%。算力硬件、AI应用、贵金属、量子科技等方向领涨。",
+          "url": "https://wallstreetcn.com/livenews/3009909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
@@ -117,11 +152,12 @@
           "url": "https://www.cls.cn/detail/2209592",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -192,6 +228,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2209422",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
+        },
+        {
+          "title": "美股存储概念股强劲反弹，大摩研报预测内存长期紧张",
+          "url": "https://www.cls.cn/detail/2209578",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -209,19 +273,36 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2209422",
-          "source": "财联社热门",
+          "title": "金十图示：2025年11月25日（周二）上海金早盘价为943.01元/克，较国际金价(946.35元/克)，低3.34元/克",
+          "url": "https://flash.jin10.com/detail/20251125110334361800",
+          "source": "金十数据",
           "ranks": [
-            8
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多家黄金珠宝品牌足金饰品价格升至1315元/克左右",
+          "url": "https://wallstreetcn.com/livenews/3009962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     }
