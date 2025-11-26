@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T09:35:25.912744+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-26T12:11:21.490332+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -15,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
           "url": "https://www.cls.cn/detail/2210921",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
           "url": "https://www.cls.cn/detail/2210906",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -48,19 +50,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
           "url": "https://wallstreetcn.com/articles/3760076",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
+        },
+        {
+          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
+          "url": "https://wallstreetcn.com/articles/3760084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
@@ -74,21 +89,32 @@
           "time_info": "09时35分"
         },
         {
-          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
-          "url": "https://wallstreetcn.com/articles/3760084",
-          "source": "华尔街见闻",
+          "title": "谷歌TPU引爆“新DeepSeek时刻”，华尔街开始抛弃英伟达？",
+          "url": "https://www.cls.cn/detail/2210875",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时11分"
+        },
+        {
+          "title": "如何评价谷歌 TPU 业务？",
+          "url": "https://www.zhihu.com/question/1943106314294231824",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
@@ -98,8 +124,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，是真的吗？你能否接受教材用 AI 生成的图片？",
@@ -128,11 +154,45 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
+        },
+        {
+          "title": "日本电磁炮试射炸毁舰船？系AI合成",
+          "url": "https://www.toutiao.com/trending/7576307867385888810/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时11分"
+        },
+        {
+          "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
+          "url": "https://www.zhihu.com/question/1976705955216516456",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "UP超治愈演唱AI音乐无岸",
+          "url": "https://search.bilibili.com/all?keyword=UP%E8%B6%85%E6%B2%BB%E6%84%88%E6%BC%94%E5%94%B1AI%E9%9F%B3%E4%B9%90%E6%97%A0%E5%B2%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -183,6 +243,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月26日（周三）上海金早盘价为943.33元/克，较国际金价(947.78元/克)，低4.45元/克",
+          "url": "https://flash.jin10.com/detail/20251126110130212800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
