@@ -1,44 +1,69 @@
 {
-  "generated_at": "2025-11-27T09:35:31.707679+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-11-27T12:09:27.410312+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
           "url": "https://www.zhihu.com/question/1977081679454630577",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时09分]"
         },
         {
           "title": "人类正在被AI反向训练吗",
           "url": "https://www.douyin.com/hot/2317425",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时09分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时09分]"
+        },
+        {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时09分"
+        },
+        {
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         }
       ]
     },
@@ -54,30 +79,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时09分]"
         },
         {
           "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
           "url": "https://www.cls.cn/detail/2212125",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时09分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2212003",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时09分]"
         }
       ]
     },
@@ -93,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时09分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -121,8 +148,25 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月27日（周四）上海金早盘价为942.06元/克，较国际金价(943.34元/克)，低1.28元/克",
+          "url": "https://flash.jin10.com/detail/20251127110218289800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时09分"
         }
       ]
     }
