@@ -1,333 +1,94 @@
 {
-  "generated_at": "2025-11-28T23:07:45.723808+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-11-29T09:35:11.707950+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 13,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
-          "url": "https://wallstreetcn.com/articles/3760277",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 18时08分]"
-        },
-        {
-          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
-          "url": "https://www.cls.cn/detail/2213363",
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 12时09分]"
-        },
-        {
-          "title": "夸克AI眼镜持续霸榜第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
+          "time_info": "[09时34分 ~ 09时35分]"
         },
+        {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251129080844541800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251129080820433800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
+        },
+        {
+          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
+          "url": "https://wallstreetcn.com/livenews/3012399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
+          "url": "https://wallstreetcn.com/livenews/3012382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 2,
+      "titles": [
         {
           "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
           "url": "https://www.cls.cn/detail/2214152",
           "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 23时07分]"
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
         },
         {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
-          "url": "https://wallstreetcn.com/articles/3760242",
+          "title": "美联储的AI困局：学格林斯潘是“死路”，不降息是“绝路”",
+          "url": "https://wallstreetcn.com/articles/3760347",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 12时09分]"
-        },
-        {
-          "title": "AI还原香港大埔火灾",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 18时08分]"
-        },
-        {
-          "title": "美国专利商标局规定AI不能被视为“发明人”",
-          "url": "https://flash.jin10.com/detail/20251128112039157800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "AI热潮“边缘”隐藏巨大投资机会！分析师看好这三只冷门科技股",
-          "url": "https://www.cls.cn/detail/2213547",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "国家能源局综合司发布关于组织开展“人工智能+”能源试点工作的通知",
-          "url": "https://wallstreetcn.com/livenews/3011848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "北京拟将大规模AI算力搬上太空",
-          "url": "https://wallstreetcn.com/articles/3760284",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "“珠峰安装电梯”图文视频系AI生成",
-          "url": "https://www.toutiao.com/trending/7577362730961767974/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "《北京市促进“人工智能+视听”产业高质量发展行动方案（2025—2029年）》发布",
-          "url": "https://wallstreetcn.com/livenews/3011794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
-          "url": "https://wallstreetcn.com/articles/3760251",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时35分 ~ 23时07分]"
-        },
-        {
-          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251128223720423800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
-          "url": "https://flash.jin10.com/detail/20251128174843998800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
-          "url": "https://www.cls.cn/detail/2213450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "美股开盘，道指开涨0.11%，标普500指数涨0.17%，纳指涨0.35%。甲骨文(ORCL.N)跌2%，报道称多家银行正商谈再向该公司和数据中心建设商VANTAGE提供380亿美元贷款；阿里巴巴(BABA.N)跌0.7%。霸王茶姬(CHA.O)涨3%。闪存龙头闪迪股价跳涨6%，此前两个交易日累计下跌超过5%。",
-          "url": "https://flash.jin10.com/detail/20251128223032429800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3012297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2214556",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3012282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
-          "url": "https://flash.jin10.com/detail/20251128180023594800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
-          "url": "https://www.cls.cn/detail/2213699",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3012294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3012094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "以太坊 以太币 ETH Ethereum",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄金真正的“大庄家”：“稳定币老大”Tether",
-          "url": "https://wallstreetcn.com/articles/3760217",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "标普将 Tether 资产评级下调至最低等，质疑其挂钩美元能力，如何看待储备资产的配置风险？",
-          "url": "https://www.zhihu.com/question/1977385646940189319",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
+          "time_info": "[09时34分 ~ 09时35分]"
         }
       ]
     },
@@ -336,32 +97,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
-          "url": "https://www.cls.cn/detail/2213059",
-          "source": "财联社热门",
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 09时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数11月份跌超0.3%，重新逼近百月均线",
+          "url": "https://wallstreetcn.com/livenews/3012383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时35分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "比特币 BTC Bitcoin",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
-          "url": "https://flash.jin10.com/detail/20251128105205543800",
-          "source": "金十数据",
+          "title": "芝商所大宕机无碍“万物齐涨”，标普五连涨，大宗商品、比特币齐升，白银伦铜创新高",
+          "url": "https://wallstreetcn.com/articles/3760330",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
+          "time_info": "[09时34分 ~ 09时35分]"
         }
       ]
     }
