@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T09:35:43.559212+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-12-02T12:13:59.546317+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "三星推出首款三折叠智能手机 搭载全套Galaxy AI",
@@ -41,15 +41,93 @@
           "time_info": "09时35分"
         },
         {
+          "title": "网警侦破AI换脸侵入计算机案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
           "url": "https://www.cls.cn/detail/2216521",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时13分]"
+        },
+        {
+          "title": "网警破获通过AI换脸非法侵入系统案",
+          "url": "https://www.toutiao.com/trending/7578802867742461503/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时13分"
+        },
+        {
+          "title": "网警破获“AI换脸”侵入计算机案",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "网警破获AI换脸非法侵入系统案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "网警破获AI换脸非法侵入案",
+          "url": "https://www.douyin.com/hot/2323802",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
+          "url": "https://www.cls.cn/detail/2216608",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
+          "url": "https://www.cls.cn/detail/2216806",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -61,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "工信部电子信息司就筹备中国人工智能终端行业协会听取意见",
+          "url": "https://wallstreetcn.com/livenews/3013427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "中信建投：关注字节Force大会和AI产业链",
@@ -77,40 +166,54 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
           "url": "https://wallstreetcn.com/articles/3760468",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时13分]"
+        },
+        {
+          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
+          "url": "https://www.cls.cn/detail/2216587",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时13分"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时13分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
           "url": "https://wallstreetcn.com/articles/3760440",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时13分]"
         }
       ]
     },
@@ -126,8 +229,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时13分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -139,6 +242,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
