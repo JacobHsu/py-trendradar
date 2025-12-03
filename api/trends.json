@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T18:08:25.685660+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2025-12-03T23:10:13.881002+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -82,7 +82,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -131,6 +131,17 @@
           "time_info": "09时35分"
         },
         {
+          "title": "The Information报道称，微软因需求问题而下调AI软件销售配额。 该公司股价盘前跌1.4%。 纳斯达克100股指期货跌0.5%，标普股指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3014505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "联合国报告：人工智能管理差异或加剧国家间不平等",
           "url": "https://wallstreetcn.com/livenews/3014113",
           "source": "华尔街见闻-快讯",
@@ -144,8 +155,114 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 23时10分]"
+        },
+        {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时12分]"
+        },
+        {
+          "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银高位震荡，离岸人民币创14个月来高点",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251203223628216800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2217558",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "能源业ETF涨0.65%，在美股盘初领跑行业ETF，半导体ETF则跌0.22%，科技行业ETF跌0.6%，全球科技股指数ETF跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3014514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "纳斯达克100股指期货美股盘前转跌，英伟达（盘前）转跌。",
+          "url": "https://wallstreetcn.com/livenews/3014503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3014495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -156,8 +273,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 18时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 23时10分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -194,6 +311,17 @@
           "time_info": "09时35分"
         },
         {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至巴尔的摩、圣路易斯、匹兹堡、费城等四个美国城市。",
+          "url": "https://wallstreetcn.com/livenews/3014500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "谷歌的TPU要干掉英伟达吗",
           "url": "https://www.toutiao.com/trending/7579260643052621321/",
           "source": "今日头条",
@@ -207,49 +335,32 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "比特币 BTC Bitcoin",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
+          "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
+          "url": "https://www.zhihu.com/question/1979277813887551142",
+          "source": "知乎",
           "ranks": [
-            2
+            11,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时35分 ~ 18时08分]"
+          "time_info": "[18时08分 ~ 23时10分]"
         },
         {
-          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
-          "url": "https://www.cls.cn/detail/2217711",
-          "source": "财联社热门",
+          "title": "比特币短线呈现出V形走势，重返93270美元一线，北京时间22:00前后几乎完全回吐日内稍早涨幅，逼近91500美元。",
+          "url": "https://wallstreetcn.com/livenews/3014520",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            2
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 12时12分]"
-        },
-        {
-          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2217558",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 3,
-      "titles": [
+          "time_info": "23时10分"
+        },
         {
           "title": "全球市场暂获喘息？流动性焦虑缓解，日债拍卖企稳比特币止住跌势",
           "url": "https://wallstreetcn.com/articles/3760526",
@@ -262,15 +373,15 @@
           "time_info": "12时12分"
         },
         {
-          "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
-          "url": "https://www.zhihu.com/question/1979277813887551142",
-          "source": "知乎",
+          "title": "彭博数据显示，比特币短线从93000美元上方跳水，逼近91500美元上方的平盘。",
+          "url": "https://wallstreetcn.com/livenews/3014504",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "23时10分"
         },
         {
           "title": "比特币一度涨至93000美元上方，创近两周高位。",
