@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-04T09:36:11.241434+08:00",
-  "total_titles_processed": 319,
+  "generated_at": "2025-12-04T12:13:36.091158+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时13分]"
+        },
         {
           "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
           "url": "https://www.zhihu.com/question/1979482353974916229",
@@ -41,17 +53,6 @@
           "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
-          "url": "https://www.cls.cn/detail/2218945",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
           "title": "中信证券：AI产业正走向规模化落地阶段",
           "url": "https://flash.jin10.com/detail/20251204082953112800",
           "source": "金十数据",
@@ -63,13 +64,35 @@
           "time_info": "[09时35分 ~ 09时36分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204114954413800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
+          "url": "https://www.cls.cn/detail/2219319",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "理想AI眼镜Livis首发开箱",
           "url": "https://www.douyin.com/hot/2325492",
           "source": "抖音",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         }
@@ -84,22 +107,24 @@
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时13分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
           "url": "https://www.cls.cn/detail/2218975",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时13分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -111,6 +136,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时35分 ~ 09时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "美元指数DXY向上触及99，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20251204112158676800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
@@ -174,11 +227,12 @@
           "url": "https://www.zhihu.com/question/1979277813887551142",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时13分]"
         }
       ]
     }
