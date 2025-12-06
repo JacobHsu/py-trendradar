@@ -1,8 +1,93 @@
 {
-  "generated_at": "2025-12-06T12:07:53.471919+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-12-06T18:07:36.549881+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 12时07分]"
+        },
+        {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 18时07分]"
+        },
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
+          "url": "https://flash.jin10.com/detail/20251206104148777800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "卡塔尔能源部长：人工智能的能源需求将推动天然气需求增长。我对未来天然气需求完全不担心。",
+          "url": "https://flash.jin10.com/detail/20251206165735695800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "从“隐形地图”到“黄金窗口期”，上海张江AI小镇底气何在？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32113562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 6,
@@ -13,11 +98,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 18时07分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -28,8 +114,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 18时07分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -78,70 +164,8 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 12时07分]"
-        },
-        {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 12时07分]"
-        },
-        {
-          "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
-          "url": "https://flash.jin10.com/detail/20251206104148777800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "从“隐形地图”到“黄金窗口期”，上海张江AI小镇底气何在？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32113562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -150,9 +174,20 @@
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 18时07分]"
+        },
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "18时07分"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -183,6 +218,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 18时07分]"
+        },
+        {
           "title": "OpenAI最快将于下周发布GPT-5.2",
           "url": "https://flash.jin10.com/detail/20251206082425729800",
           "source": "金十数据",
@@ -194,24 +241,13 @@
           "time_info": "[09时34分 ~ 09时35分]"
         },
         {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "ChatGPT产品负责人回应广告传闻",
           "url": "https://flash.jin10.com/detail/20251206101132584800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
