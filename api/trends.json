@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T18:07:36.549881+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-12-06T23:06:58.091277+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
@@ -36,11 +36,23 @@
           "url": "https://www.cls.cn/detail/2221699",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时06分]"
+        },
+        {
+          "title": "豆包AI手机深度体验",
+          "url": "https://www.douyin.com/hot/2328540",
+          "source": "抖音",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "23时06分"
         },
         {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
@@ -65,15 +77,37 @@
           "time_info": "09时35分"
         },
         {
+          "title": "对人工智能感到焦虑的人，到底在怕什么？",
+          "url": "https://www.zhihu.com/question/1975522650878124126",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "卡塔尔能源部长：人工智能的能源需求将推动天然气需求增长。我对未来天然气需求完全不担心。",
           "url": "https://flash.jin10.com/detail/20251206165735695800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
+          "url": "https://flash.jin10.com/detail/20251206203209145800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "从“隐形地图”到“黄金窗口期”，上海张江AI小镇底气何在？",
@@ -85,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "C罗入股美国AI初创公司",
+          "url": "https://wallstreetcn.com/livenews/3016306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     },
@@ -102,8 +147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时34分 ~ 18时07分]"
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 23时06分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -111,11 +156,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时34分 ~ 18时07分]"
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 23时06分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -165,8 +211,20 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时06分]"
+        },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
@@ -179,15 +237,15 @@
           "time_info": "[12时07分 ~ 18时07分]"
         },
         {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "23时06分"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -223,11 +281,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 18时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 23时06分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
@@ -250,6 +309,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比特币 BTC Bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币升破90000美元，日内涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3016323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     }
