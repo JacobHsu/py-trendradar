@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:07:17.136839+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-12-07T23:07:01.500674+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时35分 ~ 18时07分]"
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 23时07分]"
         },
         {
           "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
@@ -79,6 +79,35 @@
       ]
     },
     {
+      "keyword_group": "比特币 BTC Bitcoin",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比特币跌破88000美元/枚，日内跌幅近2%，现报87823美元/枚。",
+          "url": "https://wallstreetcn.com/livenews/3016431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "比特币升破90000美元，日内涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3016323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时17分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -89,7 +118,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         }
@@ -110,24 +139,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时35分 ~ 12时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比特币升破90000美元，日内涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3016323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时17分]"
         }
       ]
     }
