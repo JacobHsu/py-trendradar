@@ -1,389 +1,55 @@
 {
-  "generated_at": "2025-12-11T23:08:59.713757+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2025-12-12T09:36:11.983728+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 17,
+      "match_count": 4,
       "titles": [
         {
-          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
-          "url": "https://wallstreetcn.com/articles/3761127",
+          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
+          "url": "https://wallstreetcn.com/articles/3761175",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 23时08分]"
-        },
-        {
-          "title": "网警查处一起AI生成虚假低俗视频案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 12时17分]"
-        },
-        {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 23时08分]"
-        },
-        {
-          "title": "夸克AI眼镜核心供应商已新增产线",
-          "url": "https://wallstreetcn.com/livenews/3019156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 23时08分]"
-        },
-        {
-          "title": "野村：韩国首尔综合指数明年上半年料触及5000点，受AI资本支出激增推动",
-          "url": "https://wallstreetcn.com/livenews/3018915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 23时08分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频被拘",
-          "url": "https://www.douyin.com/hot/2333057",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 23时08分]"
-        },
-        {
-          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
-          "url": "https://www.cls.cn/detail/2225983",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 12时17分]"
-        },
-        {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "男子AI生成车展虚假低俗视频被拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时17分]"
-        },
-        {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时17分]"
-        },
-        {
-          "title": "美股开盘，道指涨0.05%，标普500指数跌0.37%，纳指跌0.6%。业绩和指引均不及预期的甲骨文(ORCL.N)大跌14%拖累AI股票，英伟达(NVDA.O)跌2%，英特尔(INTC.O)跌1.9%，美光科技(MU.O)跌0.95%。",
-          "url": "https://flash.jin10.com/detail/20251211223024942800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "摩根士丹利邢自强：明年经济增长锚点或将集中在人工智能与绿色转型等领域",
-          "url": "https://wallstreetcn.com/livenews/3019287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "全国首个应对疟疾、结核病及病毒等全球健康疾病挑战的AI制药平台正式发布",
-          "url": "https://wallstreetcn.com/livenews/3019132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
-          "url": "https://wallstreetcn.com/livenews/3018896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "Pinterest首席执行官Bill Ready表示， Pinterest通过依靠开源模型，节省了使用知名品牌AI的90%成本。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3018762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 23时08分]"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 12时17分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
-          "url": "https://wallstreetcn.com/livenews/3019299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251211223658707800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3019297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3019296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3018895",
-          "source": "华尔街见闻-快讯",
+          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "美股三大股指期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.59%，道指期货跌0.17%。",
-          "url": "https://flash.jin10.com/detail/20251211105349305800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
-          "url": "https://wallstreetcn.com/livenews/3018880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3019275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
         },
         {
-          "title": "专家谈2026年看空美股的四大理由",
-          "url": "https://www.toutiao.com/trending/7582479253283802675/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "迪士尼(DIS.N)上涨2%，公司将向OpenAI投资10亿美元，并将旗下卡通人物引入SORA。",
-          "url": "https://flash.jin10.com/detail/20251211224007045800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "迪士尼与OpenAI达成内容许可与投资协议",
-          "url": "https://wallstreetcn.com/livenews/3019279",
+          "title": "软银寻求AI布局，正考察包括数据中心运营商Switch在内的潜在收购",
+          "url": "https://wallstreetcn.com/livenews/3019477",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "迪士尼向OpenAI投资10亿美元 旗下角色将登陆Sora",
-          "url": "https://flash.jin10.com/detail/20251211221733960800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20251211220333965800",
-          "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
         }
       ]
     },
@@ -392,60 +58,71 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "据CNBC：迪士尼向谷歌发出停止侵权函。",
-          "url": "https://flash.jin10.com/detail/20251211221805294800",
-          "source": "金十数据",
+          "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
+          "url": "https://wallstreetcn.com/articles/3761169",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
+          "url": "https://wallstreetcn.com/livenews/3019491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "报道：若不做出更多让步，谷歌或因Google Play涉嫌违规遭欧盟罚款",
-          "url": "https://wallstreetcn.com/livenews/3018771",
-          "source": "华尔街见闻-快讯",
+          "title": "GPT-5.2来了！OpenAI最新发布",
+          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
-            23
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2227262",
+          "source": "财联社热门",
           "ranks": [
-            25
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数跌至98.543，为10月21日以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3018784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         }
       ]
     }
