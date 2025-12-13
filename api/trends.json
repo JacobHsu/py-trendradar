@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T09:35:41.284922+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-13T12:11:18.115728+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -15,41 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "长沙交警配发AI眼镜",
-          "url": "https://www.toutiao.com/trending/7582600366945632265/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
           "url": "https://wallstreetcn.com/articles/3761309",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
+          "title": "长沙交警配发AI眼镜",
+          "url": "https://www.toutiao.com/trending/7582600366945632265/",
+          "source": "今日头条",
           "ranks": [
-            7
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
@@ -57,6 +48,28 @@
           "source": "财联社热门",
           "ranks": [
             8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
+        },
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -87,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -98,8 +111,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
@@ -151,11 +164,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时11分]"
         }
       ]
     },
