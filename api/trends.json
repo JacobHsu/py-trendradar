@@ -1,81 +1,55 @@
 {
-  "generated_at": "2025-12-12T23:08:34.838998+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-12-13T09:35:41.284922+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 14,
+      "match_count": 6,
       "titles": [
         {
-          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
-          "url": "https://wallstreetcn.com/articles/3761175",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时35分 ~ 23时08分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
+          "title": "长沙交警配发AI眼镜",
+          "url": "https://www.toutiao.com/trending/7582600366945632265/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时35分 ~ 23时08分]"
-        },
-        {
-          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
-          "url": "https://www.cls.cn/detail/2227459",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时17分]"
-        },
-        {
-          "title": "美股开盘，道指开涨0.2%，标普500指数跌0.17%，纳指跌0.46%。花旗集团(C.N)涨1.3%，摩根大通将其评级从中性上调至超配；博通(AVGO.O)跌超7%，公司称第一财季毛利润率将因AI产品而收缩1%。甲骨文(ORCL.N)下跌1.1%，此前一交易日已下跌近11%。",
-          "url": "https://flash.jin10.com/detail/20251212223022214800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时35分"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
@@ -84,239 +58,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "山东：到2027年，全省人工智能核心产业规模力争突破2000亿元",
-          "url": "https://wallstreetcn.com/livenews/3019586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "09时35分"
         },
         {
-          "title": "黄仁勋奥特曼等八人获《时代》年度人物：人类将共同决定AI未来形态",
-          "url": "https://wallstreetcn.com/livenews/3019584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "对 AI 从业者和创业者来说，2026 会是一个好年吗？",
-          "url": "https://www.zhihu.com/question/1977067972511097434",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "美联储Hammack：美联储投入大量时间来研究AI。",
-          "url": "https://wallstreetcn.com/livenews/3020021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "美联储哈玛克：美联储正投入大量时间研究人工智能。",
-          "url": "https://flash.jin10.com/detail/20251212215955712800",
+          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
+          "url": "https://flash.jin10.com/detail/20251213034901959800",
           "source": "金十数据",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "软银寻求AI布局，正考察包括数据中心运营商Switch在内的潜在收购",
-          "url": "https://wallstreetcn.com/livenews/3019477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2227262",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时35分 ~ 12时17分]"
-        },
-        {
-          "title": "随着银价创下历史新高，美股银矿股股价飙升，恩迪沃银业上涨0.3%，西尔科金属上涨0.6%，赫克拉矿业上涨3.5%，科埃尔矿业上涨2.5%，赫克拉矿业上涨3.5%，科埃尔矿业上涨2.5%。",
-          "url": "https://flash.jin10.com/detail/20251212223502098800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "高盛：看好美股2026市场表现 六大科技公司将贡献近半增长",
-          "url": "https://flash.jin10.com/detail/20251212223434535800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "全球股市涨幅扩大，科技股拖累美股指期货，铜银续创新高，现货黄金重新站上4300美元",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "行业ETF美股盘初多数上涨，航空业ETF涨超1.4%，科技行业ETF则跌超0.8%，半导体ETF跌超1.5%",
-          "url": "https://wallstreetcn.com/livenews/3020040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3020018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 23时08分]"
-        },
-        {
-          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
-          "url": "https://flash.jin10.com/detail/20251212174133299800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
-          "url": "https://wallstreetcn.com/articles/3761169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
-          "url": "https://wallstreetcn.com/livenews/3019491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "09时35分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
-          "url": "https://www.cls.cn/detail/2227243",
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时35分 ~ 12时17分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -326,47 +98,64 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 23时08分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
           "ranks": [
-            11
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "GPT-5.2来了！OpenAI最新发布",
-          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
+          "appearance_count": 1,
+          "time_info": "09时35分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
+          "url": "https://wallstreetcn.com/livenews/3020154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3020145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "纳斯达克金龙中国指数盘初涨约1%。 热门中概股逸仙电商涨22.6%，金山云涨4.2%，网易涨3%，中通快递、新东方、阿特斯太阳能、再鼎医药涨超2%，百度则跌0.8%，文远知行跌1%，小马智行跌1.1%，Boss直聘跌1.4%。 此外，九紫新能涨30%，该公司将非公开配售规模扩大至10亿美元，希望满足投资者强劲的需求。 ETF中，KWEB涨0.76%，CQQQ涨0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3020041",
-          "source": "华尔街见闻-快讯",
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时35分"
         }
       ]
     },
@@ -375,15 +164,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "中国“台湾央行”称，比特币不适合作为外汇储备。",
-          "url": "https://wallstreetcn.com/livenews/3019574",
+          "title": "周五（12月12日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌1.67%，报90470美元，本周累计上涨0.92%。 CME以太币期货DCR主力合约跌4.15%，报3096美元，本周累涨2.16%。",
+          "url": "https://wallstreetcn.com/livenews/3020156",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "09时35分"
         }
       ]
     }
