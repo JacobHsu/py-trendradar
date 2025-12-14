@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-14T12:20:05.995043+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-12-14T18:07:24.193713+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
           "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 18时07分]"
+        },
+        {
+          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3020397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -24,11 +36,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时07分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -36,11 +49,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时07分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -76,13 +90,24 @@
           "time_info": "09时36分"
         },
         {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "广东人工智能和机器人产业核心指标位列全国第一",
           "url": "https://wallstreetcn.com/livenews/3020326",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -96,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
+          "url": "https://www.zhihu.com/question/1982864642054250698",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "8小时让AI做3个游戏",
@@ -150,7 +186,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
