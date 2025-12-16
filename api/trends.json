@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T09:36:16.992978+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2025-12-16T12:18:09.368847+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -15,8 +15,52 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 12时18分]"
+        },
+        {
+          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
+          "url": "https://wallstreetcn.com/articles/3761448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
+          "url": "https://wallstreetcn.com/articles/3761403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
+          "url": "https://www.zhihu.com/question/1982854147905691963",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "年初 DeepSeek R1 的发布，给整个 AI 行业带来了什么影响？",
+          "url": "https://www.zhihu.com/question/1974950875228308388",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
           "title": "你信任的装修博主可能是AI夫妻",
@@ -33,18 +77,30 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 12时18分]"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
+          "url": "https://flash.jin10.com/detail/20251216110323554800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         }
       ]
     },
