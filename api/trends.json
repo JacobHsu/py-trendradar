@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T12:15:47.452621+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2025-12-17T18:08:20.309587+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -19,13 +19,24 @@
           "time_info": "[09时36分 ~ 12时15分]"
         },
         {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "成都 35 所中小学试点 AI 批改作业，准确率达 95%，如何评价这种批改形式？会全国推广吗？",
           "url": "https://www.zhihu.com/question/1984358783053422759",
           "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -36,16 +47,38 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "我会努力跑在AI的前面",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E4%BC%9A%E5%8A%AA%E5%8A%9B%E8%B7%91%E5%9C%A8AI%E7%9A%84%E5%89%8D%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美股盘前，亚马逊涨超1%，报道称公司正洽谈投资OpenAI超100亿美元，并提供自研芯片；美光科技涨超2%，公司将于今日盘后发布最新季度财报；奈飞涨超1%，华纳兄弟据称本周将拒绝派拉蒙收购要约。",
+          "url": "https://wallstreetcn.com/livenews/3022308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
         {
           "title": "据悉OpenAI商谈从亚马逊融资100亿美元",
           "url": "https://flash.jin10.com/detail/20251217110034700800",
@@ -53,7 +86,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
@@ -70,7 +103,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
