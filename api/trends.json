@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-23T09:36:39.803822+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-12-23T12:20:18.337642+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时20分]"
+        },
         {
           "title": "AI定格|2025·强国脉动",
           "url": "https://www.toutiao.com/trending/7586532944194502707/",
@@ -24,17 +36,6 @@
           "source": "微博",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -59,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时20分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -70,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时20分]"
         },
         {
           "title": "用AI造谣中国女篮两男子被刑拘",
@@ -81,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时20分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -92,19 +93,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时20分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时20分]"
+        },
+        {
+          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
+          "url": "https://www.cls.cn/detail/2236998",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时20分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -118,15 +132,15 @@
           "time_info": "09时36分"
         },
         {
-          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
-          "url": "https://www.cls.cn/detail/2236998",
-          "source": "财联社热门",
+          "title": "曝英伟达计划春节前对华交付AI芯片",
+          "url": "https://www.toutiao.com/trending/7586876449718685210/",
+          "source": "今日头条",
           "ranks": [
-            11
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "12时20分"
         },
         {
           "title": "报道：字节跳动计划斥资230亿美元大举投资人工智能",
@@ -164,8 +178,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时20分]"
         }
       ]
     }
