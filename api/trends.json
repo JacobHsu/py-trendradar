@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T09:36:04.990066+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-12-24T12:18:56.428312+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2238248",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 12时18分]"
         },
         {
           "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
