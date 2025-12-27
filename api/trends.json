@@ -1,71 +1,12 @@
 {
-  "generated_at": "2025-12-26T23:08:03.070675+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2025-12-27T09:36:06.572143+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 18,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
-          "url": "https://www.cls.cn/detail/2240698",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 18时07分]"
-        },
-        {
-          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
-          "url": "https://www.cls.cn/detail/2240453",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时18分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-26）",
-          "url": "https://flash.jin10.com/detail/20251226114833609800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "今年人工智能核心产业规模超万亿元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A0%B8%E5%BF%83%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E8%B6%85%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 23时08分]"
-        },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
           "url": "https://www.cls.cn/detail/2241363",
@@ -75,202 +16,90 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时07分 ~ 23时08分]"
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "美股开盘，道指跌0.04%，标普500指数涨0.04%，纳指涨0.1%，英伟达(NVDA.O)涨0.8%，公司与Groq达成一项非独家技术许可协议。矿业股跟随近期金属涨势，科尔黛伦矿业(CDE.N)涨3.4%， 泛美白银(PAAS.O)涨1.9%。存储概念股上涨，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨3.5%，Omdia预期AI需求推动NAND明年涨价40%。",
-          "url": "https://flash.jin10.com/detail/20251226223046972800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时07分 ~ 23时08分]"
-        },
-        {
-          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
-          "url": "https://www.cls.cn/detail/2240534",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时18分]"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时18分]"
-        },
-        {
-          "title": "174名北大学生迎特殊考试：对决AI",
-          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时07分 ~ 23时08分]"
-        },
-        {
-          "title": "朱光耀：人工智能发展需在伦理规范与治理规则方面形成共识",
-          "url": "https://wallstreetcn.com/livenews/3027016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
-          "url": "https://www.zhihu.com/question/1987780060753719586",
-          "source": "知乎",
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "09时36分"
         },
         {
-          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
-          "url": "https://wallstreetcn.com/livenews/3027011",
+          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3027489",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "09时36分"
         },
         {
-          "title": "日本拟在预算中就对芯片和人工智能的支持增加三倍",
-          "url": "https://flash.jin10.com/detail/20251226112803480800",
-          "source": "金十数据",
+          "title": "普京：将应用人工智能技术巩固俄武器装备优势",
+          "url": "https://wallstreetcn.com/livenews/3027484",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
-          "url": "https://www.cls.cn/detail/2239926",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "天禧AI从助手到队友",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%A6%A7AI%E4%BB%8E%E5%8A%A9%E6%89%8B%E5%88%B0%E9%98%9F%E5%8F%8B%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "UP主用AI挑战肉鸽游戏",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "09时36分"
         },
         {
           "title": "2025年度AI好用工具",
           "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 5,
       "titles": [
         {
-          "title": "金十图示：2025年12月26日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251226223829265800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时07分 ~ 23时08分]"
-        },
-        {
-          "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
-          "url": "https://flash.jin10.com/detail/20251226172626463800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "韩国电商Coupang美股盘初涨11%，创5月7日以来最佳盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/3027382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF、能源业ETF、网络股指数ETF、可选消费ETF至多跌0.47%，银行业ETF、半导体ETF、科技行业ETF至多涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3027380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "美股指开盘涨跌不一，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
           "url": "https://wallstreetcn.com/articles/3762133",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时07分 ~ 23时08分]"
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -281,132 +110,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时07分 ~ 23时08分]"
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-26）",
-          "url": "https://flash.jin10.com/detail/20251226211205705800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时07分 ~ 23时08分]"
-        },
-        {
-          "title": "美股今日正常开市，欧洲股市继续休市",
-          "url": "https://flash.jin10.com/detail/20251226112952955800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3027371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时36分 ~ 23时08分]"
-        },
-        {
-          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
-          "url": "https://flash.jin10.com/detail/20251226112935984800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3026999",
+          "title": "黄金ETF收涨将近1.2%，领跑美股大类资产类ETF，今年已涨超72%",
+          "url": "https://wallstreetcn.com/livenews/3027493",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时36分"
-        },
-        {
-          "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
-          "url": "https://wallstreetcn.com/livenews/3026903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 18时07分]"
-        },
-        {
-          "title": "谷歌将允许用户更改Gmail邮箱地址",
-          "url": "https://flash.jin10.com/detail/20251226220031392800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时07分 ~ 23时08分]"
         }
       ]
     },
@@ -415,15 +130,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "比特币在币安闪崩数秒反弹",
-          "url": "https://www.toutiao.com/trending/7587314062792491051/",
-          "source": "今日头条",
+          "title": "比特币期货本周跌超1.4%，以太坊期货跌约2.2%",
+          "url": "https://wallstreetcn.com/livenews/3027478",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "09时36分"
         }
       ]
     }
