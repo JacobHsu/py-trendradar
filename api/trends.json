@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-28T18:07:38.814732+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2025-12-28T23:07:40.528167+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
         {
           "title": "中国人民银行科技司司长李伟：积极稳妥、安全有序推进人工智能金融应用",
           "url": "https://wallstreetcn.com/livenews/3027626",
@@ -14,9 +25,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "原告出示证据 右下角写着“AI生成”",
@@ -31,6 +53,19 @@
           "time_info": "[09时36分 ~ 12时24分]"
         },
         {
+          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
+          "url": "https://www.cls.cn/detail/2241811",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 23时07分]"
+        },
+        {
           "title": "Notion CEO谈AI变革：“无限心智”时代来临",
           "url": "https://wallstreetcn.com/articles/3762183",
           "source": "华尔街见闻",
@@ -43,16 +78,16 @@
           "time_info": "[09时36分 ~ 12时24分]"
         },
         {
-          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
-          "url": "https://www.cls.cn/detail/2241811",
-          "source": "财联社热门",
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            12
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时24分]"
+          "time_info": "[18时07分 ~ 23时07分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -67,24 +102,13 @@
           "time_info": "[09时36分 ~ 12时24分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
           "url": "https://wallstreetcn.com/livenews/3027613",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -95,7 +119,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -117,9 +141,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "广州在全国率先设立区级人工智能发展局",
+          "url": "https://wallstreetcn.com/livenews/3027650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -142,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "广州在全国率先设立区级人工智能发展局",
+          "url": "https://flash.jin10.com/detail/20251228194152132800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         }
       ]
     },
@@ -156,9 +202,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时07分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -170,6 +216,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
+          "url": "https://flash.jin10.com/detail/20251228222030090800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         }
       ]
     }
