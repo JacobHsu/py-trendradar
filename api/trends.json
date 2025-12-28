@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-28T12:24:55.936111+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-12-28T18:07:38.814732+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "中国人民银行科技司司长李伟：积极稳妥、安全有序推进人工智能金融应用",
+          "url": "https://wallstreetcn.com/livenews/3027626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
         {
           "title": "原告出示证据 右下角写着“AI生成”",
           "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%91%8A%E5%87%BA%E7%A4%BA%E8%AF%81%E6%8D%AE+%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%86%99%E7%9D%80%E2%80%9CAI%E7%94%9F%E6%88%90%E2%80%9D",
@@ -56,15 +67,59 @@
           "time_info": "[09时36分 ~ 12时24分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
+          "url": "https://wallstreetcn.com/livenews/3027613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "对比互联网泡沫，AI现在走到“1998年”？",
+          "url": "https://wallstreetcn.com/articles/3762198",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
           "url": "https://flash.jin10.com/detail/20251228101016182800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "证监会科技司刘铁斌：构建规范、健康的资本市场人工智能生态体系",
+          "url": "https://wallstreetcn.com/livenews/3027607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -92,8 +147,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
           "url": "https://flash.jin10.com/detail/20251228100400527800",
@@ -101,7 +167,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
