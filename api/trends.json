@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T12:27:09.017913+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2025-12-29T18:08:21.032494+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-29）",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -46,11 +46,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 18时08分]"
+        },
+        {
+          "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
+          "url": "https://www.cls.cn/detail/2242491",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -62,6 +74,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "“AI教父”警告2026年将迎失业潮",
+          "url": "https://www.toutiao.com/trending/7588750168670748713/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时27分]"
+        },
+        {
+          "title": "瑞银：上调黄金价格预期 明年有望升至5000美元",
+          "url": "https://flash.jin10.com/detail/20251229171345422800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "机构：金价在投资者锁定利润的背景下回落",
+          "url": "https://flash.jin10.com/detail/20251229170742878800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "瑞银：2026年前三个季度黄金目标价为每盎司5,000美元（此前预计为每盎司4500美元）。 预计到2026年底，黄金价格将小幅下跌至每盎司4,800美元。",
+          "url": "https://wallstreetcn.com/livenews/3028031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
@@ -76,7 +149,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -111,19 +184,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
+          "title": "韩国电商巨头Coupang美股盘前上涨3%，此前公司宣布向韩国用户支付11.8亿美元赔偿金，以弥补数据泄露事件造成的损失。",
+          "url": "https://flash.jin10.com/detail/20251229172401231800",
+          "source": "金十数据",
           "ranks": [
-            7
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     }
