@@ -1,91 +1,44 @@
 {
-  "generated_at": "2026-01-01T23:07:50.115564+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-01-02T09:36:21.960715+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 11,
+      "match_count": 5,
       "titles": [
         {
-          "title": "AI魔改翻车!广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
-        },
-        {
-          "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
-          "url": "https://wallstreetcn.com/livenews/3029625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.toutiao.com/trending/7589768798652514310/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 23时07分]"
-        },
-        {
-          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
-          "url": "https://www.cls.cn/detail/2245960",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 18时07分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 23时07分]"
-        },
-        {
-          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
-          "url": "https://wallstreetcn.com/articles/3762372",
+          "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
+          "url": "https://wallstreetcn.com/articles/3762433",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时26分]"
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
           "url": "https://www.cls.cn/detail/2245258",
           "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 23时07分]"
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -95,88 +48,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 23时07分]"
-        },
-        {
-          "title": "宇树人形机器人回应AI是否存在泡沫",
-          "url": "https://www.toutiao.com/trending/7589927689303326763/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
-        },
-        {
-          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "09时36分"
         },
         {
-          "title": "分析：资本正在绕过“会用AI的人”",
-          "url": "https://www.toutiao.com/trending/7590280567417998894/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI采取行动，改善语音AI模型。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3029628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 18时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=28&Refer=top",
+          "title": "终于懂老人分不清ai的无力感了",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%87%82%E8%80%81%E4%BA%BA%E5%88%86%E4%B8%8D%E6%B8%85ai%E7%9A%84%E6%97%A0%E5%8A%9B%E6%84%9F%E4%BA%86&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "09时36分"
         }
       ]
     },
@@ -189,14 +73,11 @@
           "url": "https://www.cls.cn/detail/2246008",
           "source": "财联社热门",
           "ranks": [
-            6,
-            7,
-            3,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 23时07分]"
+          "appearance_count": 1,
+          "time_info": "09时36分"
         }
       ]
     }
