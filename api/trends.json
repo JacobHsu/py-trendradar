@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T12:21:50.349147+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-01-06T18:08:26.262786+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -32,13 +32,24 @@
           "time_info": "[09时36分 ~ 12时21分]"
         },
         {
+          "title": "AI热潮抵消地缘政治担忧 欧元信用违约互换成本维持低位",
+          "url": "https://flash.jin10.com/detail/20260106175355647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
           "url": "https://flash.jin10.com/detail/20260106115423474800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -72,7 +83,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -83,9 +94,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
+          "url": "https://www.cls.cn/detail/2248752",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "B站AI大赛开始了",
@@ -105,7 +138,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -116,7 +149,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -138,7 +171,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -152,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "20多个百大齐聚B站AI大赛",
+          "url": "https://search.bilibili.com/all?keyword=20%E5%A4%9A%E4%B8%AA%E7%99%BE%E5%A4%A7%E9%BD%90%E8%81%9AB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
@@ -167,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时08分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -196,6 +240,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
+          "url": "https://www.cls.cn/detail/2248953",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -205,28 +277,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "瑞银上调金价目标至5000美元",
-          "url": "https://www.toutiao.com/trending/7592024699937230379/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 18时08分]"
         }
       ]
     },
