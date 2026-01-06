@@ -1,44 +1,91 @@
 {
-  "generated_at": "2026-01-06T09:36:57.648862+08:00",
-  "total_titles_processed": 300,
+  "generated_at": "2026-01-06T12:21:50.349147+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
           "url": "https://www.cls.cn/detail/2248455",
           "source": "财联社热门",
           "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时21分]"
+        },
+        {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时21分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
+          "url": "https://flash.jin10.com/detail/20260106115423474800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "12时21分"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
           "url": "https://www.cls.cn/detail/2248593",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时21分]"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时21分]"
+        },
+        {
+          "title": "抖音：2025年AI兴趣用户增长翻倍",
+          "url": "https://wallstreetcn.com/livenews/3031344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "12时21分"
+        },
+        {
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "B站AI大赛开始了",
@@ -52,6 +99,28 @@
           "time_info": "09时36分"
         },
         {
+          "title": "全域AI能给汽车带来什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰在CES上表示：下一代MI500系列的开发工作已全面展开。 我们正按计划实现AI性能提升1000倍的目标。",
+          "url": "https://wallstreetcn.com/livenews/3031328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "智谱AI在厦门投资成立新公司",
           "url": "https://wallstreetcn.com/livenews/3031212",
           "source": "华尔街见闻-快讯",
@@ -63,22 +132,22 @@
           "time_info": "09时36分"
         },
         {
+          "title": "AMD推出全新的Ryzen AI 400及PRO 400系列处理器。 AMD面向AI PC和嵌入式应用推出全新的AMD Ryzen AI平台。",
+          "url": "https://wallstreetcn.com/livenews/3031327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "黄仁勋发布新一代AI芯片",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3AI%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -98,8 +167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时21分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -109,19 +178,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时21分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2248463",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时21分]"
         }
       ]
     },
@@ -134,11 +204,29 @@
           "url": "https://wallstreetcn.com/articles/3762605",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 12时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "12时21分"
         }
       ]
     },
