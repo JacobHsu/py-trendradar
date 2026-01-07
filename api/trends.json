@@ -1,46 +1,33 @@
 {
-  "generated_at": "2026-01-06T23:08:46.008974+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-01-07T09:36:38.334559+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 20,
+      "match_count": 7,
       "titles": [
         {
-          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
-          "url": "https://www.cls.cn/detail/2248455",
-          "source": "财联社热门",
+          "title": "为何说AI抢走了你的内存",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时21分]"
-        },
-        {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时21分]"
-        },
-        {
-          "title": "AI热潮抵消地缘政治担忧 欧元信用违约互换成本维持低位",
-          "url": "https://flash.jin10.com/detail/20260106175355647800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "09时36分"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "中国人工智能技术正这样走向世界",
@@ -49,369 +36,77 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
-          "url": "https://flash.jin10.com/detail/20260106115423474800",
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "联想发布下一代AI个人电脑、旗舰级摩托罗拉智能手机、感知AI概念项链及概念智能眼镜。",
+          "url": "https://flash.jin10.com/detail/20260107090626634800",
           "source": "金十数据",
           "ranks": [
-            3
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "09时36分"
         },
         {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时21分]"
-        },
-        {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时21分]"
-        },
-        {
-          "title": "抖音：2025年AI兴趣用户增长翻倍",
-          "url": "https://wallstreetcn.com/livenews/3031344",
+          "title": "联想携手英伟达推出吉瓦级AI工厂计划，加速企业级AI发展。",
+          "url": "https://wallstreetcn.com/livenews/3032008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "09时36分"
         },
         {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
-          "url": "https://www.cls.cn/detail/2248752",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "B站AI大赛开始了",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
-          "source": "bilibili 热搜",
+          "title": "市场消息：联想与英伟达(NVDA.O)合作开展“千兆瓦级人工智能工厂”项目，以加速企业人工智能应用进程。",
+          "url": "https://flash.jin10.com/detail/20260107090158203800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
-        },
-        {
-          "title": "全域AI能给汽车带来什么",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "AMD首席执行官苏姿丰在CES上表示：下一代MI500系列的开发工作已全面展开。 我们正按计划实现AI性能提升1000倍的目标。",
-          "url": "https://wallstreetcn.com/livenews/3031328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "智谱AI在厦门投资成立新公司",
-          "url": "https://wallstreetcn.com/livenews/3031212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "AMD推出全新的Ryzen AI 400及PRO 400系列处理器。 AMD面向AI PC和嵌入式应用推出全新的AMD Ryzen AI平台。",
-          "url": "https://wallstreetcn.com/livenews/3031327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "AIG跌6%，创4月份以来最差盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/3031743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "AI养生道",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "黄仁勋发布新一代AI芯片",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3AI%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "20多个百大齐聚B站AI大赛",
-          "url": "https://search.bilibili.com/all?keyword=20%E5%A4%9A%E4%B8%AA%E7%99%BE%E5%A4%A7%E9%BD%90%E8%81%9AB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 23时08分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时21分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时21分]"
-        },
-        {
-          "title": "美股指期货小幅走低，全球股指触及历史高位，现货白银日内涨超3%，伦铜再创新高，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3762631",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时08分"
+          "time_info": "09时36分"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2249754",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3031741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260106223855995800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3031726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
-          "url": "https://www.cls.cn/detail/2248953",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "金价大涨 黄金珠宝行业面临分化",
-          "url": "https://www.toutiao.com/trending/7592189155237789750/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        },
-        {
-          "title": "瑞银上调金价目标至5000美元",
-          "url": "https://www.toutiao.com/trending/7592024699937230379/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Snowflake在Snowflake Cortex AI中提供谷歌公司Gemini 3。",
-          "url": "https://wallstreetcn.com/livenews/3031737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 23时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据CoinShares：全球加密货币交易所交易产品（ETPs）在2025年累计获得472亿美元资金流入，略微低于2024年所创历史最高纪录。 其中，比特币ETPs流入269亿美元，降幅35%。 而以太坊、XRP、Solana相关的ETPs合计流入超过200亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
