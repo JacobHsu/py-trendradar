@@ -1,61 +1,16 @@
 {
-  "generated_at": "2026-01-07T23:09:23.737117+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-01-08T09:36:26.078530+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 19,
+      "match_count": 6,
       "titles": [
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时22分]"
-        },
-        {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 18时08分]"
-        },
-        {
-          "title": "八部门联合发文，事关“人工智能+制造”",
-          "url": "https://www.cls.cn/detail/2250761",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "为何说AI抢走了你的内存",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "中国人工智能技术正这样走向世界",
-          "url": "https://www.toutiao.com/trending/7592248398812728859/",
-          "source": "今日头条",
+          "title": "直播电商新规强化AI内容监管",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
@@ -64,158 +19,55 @@
           "time_info": "09时36分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-07）",
-          "url": "https://flash.jin10.com/detail/20260107120242585800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
           "url": "https://wallstreetcn.com/articles/3762706",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 23时09分]"
-        },
-        {
-          "title": "英伟达押注物理AI背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 18时08分]"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时22分]"
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
           "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 23时09分]"
-        },
-        {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
-          "ranks": [
-            10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 18时08分]"
-        },
-        {
-          "title": "工信部等八部门：推动智能芯片软硬协同发展，支持突破高端训练芯片、端侧推理芯片、人工智能服务器、高速互联、智算云操作系统等关键核心技术",
-          "url": "https://wallstreetcn.com/livenews/3032350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "联想发布下一代AI个人电脑、旗舰级摩托罗拉智能手机、感知AI概念项链及概念智能眼镜。",
-          "url": "https://flash.jin10.com/detail/20260107090626634800",
-          "source": "金十数据",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
         {
-          "title": "联想携手英伟达推出吉瓦级AI工厂计划，加速企业级AI发展。",
-          "url": "https://wallstreetcn.com/livenews/3032008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
-          "url": "https://www.cls.cn/detail/2250185",
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "09时36分"
         },
         {
-          "title": "工信部等八部门：到2027年 我国人工智能关键核心技术实现安全可靠供给",
-          "url": "https://wallstreetcn.com/livenews/3032340",
+          "title": "合肥“十五五”规划建议：聚力打造全国领先的人工智能创新高地",
+          "url": "https://wallstreetcn.com/livenews/3032819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "09时36分"
         },
         {
-          "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
-          "url": "https://www.zhihu.com/question/1991159352690762378",
-          "source": "知乎",
+          "title": "马斯克：中国AI算力领先世界",
+          "url": "https://www.toutiao.com/trending/7592779381248888362/",
+          "source": "今日头条",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "市场消息：联想与英伟达(NVDA.O)合作开展“千兆瓦级人工智能工厂”项目，以加速企业人工智能应用进程。",
-          "url": "https://flash.jin10.com/detail/20260107090158203800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -225,113 +77,29 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股关键关口前徘徊不前 华尔街静待经济“体检报告”",
-          "url": "https://flash.jin10.com/detail/20260107224628216800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 12时22分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
-          "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
         {
-          "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260107223635049800",
-          "source": "金十数据",
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "美股开盘，道指涨0.1%，标普500指数涨0.03%，纳指涨0.02%。游戏驿站(GME.N)涨3.97%，公司宣布针对CEO瑞安·科恩的绩效薪酬计划。Ventyx(VTYX.O)飙升49%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
-          "url": "https://flash.jin10.com/detail/20260107223026847800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF涨0.99%，可选消费ETF涨0.4%，网络股指数ETF涨0.18%，能源业ETF跌0.11%，科技行业ETF跌0.31%，半导体指数跌0.74%。",
-          "url": "https://wallstreetcn.com/livenews/3032535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "美股稀土概念盘前走强，Critical Metals涨超10%，MP Materials涨超3%，USA Rare Earth涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3032318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "Ventyx(VTYX.O)美股盘前飙升65%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
-          "url": "https://flash.jin10.com/detail/20260107171807580800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌与XREAL宣布达成深度长期战略合作",
-          "url": "https://wallstreetcn.com/livenews/3032063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "09时36分"
         }
       ]
     },
@@ -340,15 +108,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
-          "url": "https://flash.jin10.com/detail/20260107111347667800",
-          "source": "金十数据",
+          "title": "金价已在历史高位 央行为何还在买",
+          "url": "https://www.toutiao.com/trending/7592763349536869894/",
+          "source": "今日头条",
           "ranks": [
-            20
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "09时36分"
         }
       ]
     }
