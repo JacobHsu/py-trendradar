@@ -1,673 +1,205 @@
 {
-  "generated_at": "2026-01-28T23:13:38.383846+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-01-29T09:38:10.092323+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "Clawdbot引爆整个AI agent生态",
-          "url": "https://wallstreetcn.com/articles/3764269",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时36分 ~ 18时10分]"
-        },
-        {
-          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
-          "url": "https://www.cls.cn/detail/2271840",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时25分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时25分]"
-        },
-        {
-          "title": "据The Information：Anthropic预计其2025年营收将达550亿美元。到2029年，Anthropic的人工智能模型训练成本将超过1000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260128091951342800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-28）",
-          "url": "https://flash.jin10.com/detail/20260128115641682800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "刘强东在家乡打造了一个AI教室",
-          "url": "https://www.toutiao.com/trending/7600224231955988531/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 18时10分]"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 23时13分]"
-        },
-        {
-          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
-          "url": "https://www.zhihu.com/question/1999418734398366788",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时25分]"
-        },
-        {
-          "title": "马云：孩子不应和AI比拼计算和记忆",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "C3.ai(AI.N)美股盘前涨10.9%，此前有报道称该公司正与Automation Anywhere就合并事宜进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260128173854928800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "马云谈AI时代教育",
-          "url": "https://www.toutiao.com/trending/7600274916425351187/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "刘强东给老家建了间AI教室",
-          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "SK海力士拟斥资100亿美元在美成立AI公司",
-          "url": "https://flash.jin10.com/detail/20260128173103315800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "SK海力士：将重组Solidigm业务以成立人工智能子公司。",
-          "url": "https://flash.jin10.com/detail/20260128172044880800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "SK海力士将以资本投入的方式向人工智能部门投入100亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3045461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "国资委：国资央企将更大力度推进“AI+”专项行动",
-          "url": "https://wallstreetcn.com/livenews/3045207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 8,
       "titles": [
         {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时25分]"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
         },
         {
-          "title": "渣打：金价出现任何回调都是买入机会",
-          "url": "https://www.toutiao.com/trending/7600387008329944595/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "黄金价格大涨又大跌，是走还是留？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 18时10分]"
-        },
-        {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时36分 ~ 18时10分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "title": "金价屡创历史新高意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            1,
-            27
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 23时13分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 23时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "金价波动如何影响实体金店",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "09时38分"
         },
         {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "分析师：金价的任何回调都成为具有吸引力的买入机会",
+          "url": "https://flash.jin10.com/detail/20260129085233565800",
+          "source": "金十数据",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
-          "url": "https://wallstreetcn.com/livenews/3045069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
+            14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "渣打：金价任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "09时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "蚂蚁集团入股AI大模型技术研发商西湖心辰",
+          "url": "https://wallstreetcn.com/livenews/3045963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
-          "url": "https://www.cls.cn/detail/2271921",
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
           "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时25分]"
-        },
-        {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "阿斯麦(ASML.O)美股转跌，此前一度涨7.5%。",
-          "url": "https://flash.jin10.com/detail/20260128223835627800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
           "url": "https://www.cls.cn/detail/2273158",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
-          "url": "https://wallstreetcn.com/livenews/3045661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260128223618828800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "康宁(GLW.N)美股盘前涨5.3%，即将公布业绩；摩根大通此前上调该公司的目标价。",
-          "url": "https://flash.jin10.com/detail/20260128173357657800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美股芯片股大幅走高，超微电脑(SMCI.O)涨1.2%，美光科技(MU.O)涨4%，博通(AVGO.O)涨0.7%，AMD(AMD.O)涨1%，英特尔(INTC.O)涨8.2%。",
-          "url": "https://flash.jin10.com/detail/20260128223449534800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "半导体ETF美股盘初涨1.92%，全球科技股指数ETF涨0.91%，科技行业ETF涨0.84%，领跑行业ETF。",
-          "url": "https://wallstreetcn.com/livenews/3045657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "美股三大股指高开 芯片股走高",
-          "url": "https://flash.jin10.com/detail/20260128223022828800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
-          "url": "https://wallstreetcn.com/livenews/3045460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-          "url": "https://wallstreetcn.com/articles/3764292",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时36分 ~ 23时13分]"
-        },
-        {
-          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
-          "url": "https://www.cls.cn/detail/2272037",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
-          "url": "https://flash.jin10.com/detail/20260128220815725800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "电池回收与储能初创公司Redwood Materials Inc.按超过60亿美元的估值融资4.25亿美元，原拟募集3.5亿美元。 这家由特斯拉联合创始人JB Straubel主导的公司新增Alphabet旗下谷歌公司为投资者。",
-          "url": "https://wallstreetcn.com/livenews/3045639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1999186592472986900",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 18时10分]"
-        },
-        {
-          "title": "软银拟向OpenAI追投至多300亿美元",
-          "url": "https://flash.jin10.com/detail/20260128085403401800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 09时37分]"
-        },
-        {
-          "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3045072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "美元指数跌至近4年来低点",
-          "url": "https://wallstreetcn.com/livenews/3045248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "[09时37分 ~ 09时38分]"
         }
       ]
     },
     {
       "keyword_group": "以太坊 以太币 ETH Ethereum",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "稳定币发行商Tether每周秘密购入1-2吨黄金",
-          "url": "https://flash.jin10.com/detail/20260128223421454800",
-          "source": "金十数据",
+          "title": "手办厂 Myethos 遭人为纵火致周边出货延迟，对动漫周边行业有何影响？",
+          "url": "https://www.zhihu.com/question/1999568114719942246",
+          "source": "知乎",
           "ranks": [
-            16
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "稳定币发行商Tether首席执行官：计划将投资组合中10%至15%的资金用于购买实物黄金。",
-          "url": "https://flash.jin10.com/detail/20260128222543223800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
         }
       ]
     }
