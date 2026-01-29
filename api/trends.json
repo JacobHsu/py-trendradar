@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T12:36:57.310518+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-01-29T18:16:59.637324+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 18时16分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -29,6 +30,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时37分 ~ 12时36分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 18时16分]"
         },
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -59,20 +72,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
         {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "18时16分"
+        },
+        {
+          "title": "聚焦人工智能、量子信息等战略性新兴产业 我国质量强链工作成效显著",
+          "url": "https://wallstreetcn.com/livenews/3046365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://www.cls.cn/detail/2273653",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "蚂蚁集团入股AI大模型技术研发商西湖心辰",
@@ -86,13 +121,24 @@
           "time_info": "09时38分"
         },
         {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "AI应用板块爆发",
           "url": "https://www.toutiao.com/trending/7599545650313642034/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -103,7 +149,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -114,7 +160,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -122,7 +168,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -147,6 +193,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "高盛：上调今明两年金价预测",
+          "url": "https://www.toutiao.com/trending/7600254146813558827/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "金价波动如何影响实体金店",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
           "source": "bilibili 热搜",
@@ -159,6 +216,18 @@
           "time_info": "[09时38分 ~ 12时36分]"
         },
         {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时16分]"
+        },
+        {
           "title": "金价暴涨女子卖300克黄金变现30万",
           "url": "https://www.toutiao.com/trending/7600256243789627398/",
           "source": "今日头条",
@@ -169,6 +238,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时37分 ~ 12时36分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 18时16分]"
         },
         {
           "title": "分析师：金价的任何回调都成为具有吸引力的买入机会",
@@ -193,17 +274,6 @@
           "time_info": "[09时37分 ~ 09时38分]"
         },
         {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时36分]"
-        },
-        {
           "title": "渣打：金价任何回调都是买入机会",
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
           "source": "今日头条",
@@ -215,24 +285,13 @@
           "time_info": "[09时37分 ~ 09时38分]"
         },
         {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "金价银价暴涨原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -240,7 +299,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
@@ -264,12 +323,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)美股盘前上涨1.9%，此前竞争对手Meta公司上调了年度资本支出计划。",
+          "url": "https://flash.jin10.com/detail/20260129175710247800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -278,9 +348,48 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "西部黄金：公司关注到目前黄金市场热度较高，黄金产品的市场价格累计涨幅较大，敬请广大投资者理性投资、审慎决策，注意投资风险。",
+          "url": "https://wallstreetcn.com/livenews/3046359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
