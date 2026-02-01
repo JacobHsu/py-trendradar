@@ -1,8 +1,115 @@
 {
-  "generated_at": "2026-02-01T12:48:34.688364+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-02-01T18:09:45.793102+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 18时09分]"
+        },
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 18时09分]"
+        },
+        {
+          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
+          "url": "https://wallstreetcn.com/articles/3764665",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 18时09分]"
+        },
+        {
+          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
+          "url": "https://www.zhihu.com/question/2000597877295174051",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
+          "url": "https://wallstreetcn.com/articles/3764648",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
+          "url": "https://www.zhihu.com/question/2000826715941904620",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
+          "url": "https://wallstreetcn.com/livenews/3047799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
+          "url": "https://www.zhihu.com/question/2000979139897811762",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
+          "url": "https://wallstreetcn.com/livenews/3047705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 9,
@@ -55,6 +162,18 @@
           "time_info": "[09时37分 ~ 09时38分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 18时09分]"
+        },
+        {
           "title": "金价银价为何创纪录暴跌",
           "url": "https://www.douyin.com/hot/2385262",
           "source": "抖音",
@@ -66,24 +185,13 @@
           "time_info": "09时38分"
         },
         {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "深圳水贝金价暴跌市民扎堆买金",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%B8%82%E6%B0%91%E6%89%8E%E5%A0%86%E4%B9%B0%E9%87%91%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -94,7 +202,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -105,100 +213,89 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时48分]"
-        },
-        {
-          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
-          "url": "https://www.zhihu.com/question/2000597877295174051",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
-        },
-        {
-          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
-          "url": "https://wallstreetcn.com/articles/3764648",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "18时09分"
         },
         {
-          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
-          "url": "https://wallstreetcn.com/articles/3764665",
-          "source": "华尔街见闻",
+          "title": "揭秘OpenAI掌门人的上位史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98OpenAI%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%9A%84%E4%B8%8A%E4%BD%8D%E5%8F%B2",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
-          "url": "https://www.zhihu.com/question/2000979139897811762",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
-          "url": "https://wallstreetcn.com/livenews/3047705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
         }
       ]
     },
     {
       "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
+          "url": "https://wallstreetcn.com/articles/3764674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 18时09分]"
+        },
+        {
+          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
         {
           "title": "比特币跌破8万美元",
           "url": "https://www.douyin.com/hot/2385871",
@@ -206,18 +303,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
-          "url": "https://wallstreetcn.com/articles/3764674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -231,34 +317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "揭秘OpenAI掌门人的上位史",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98OpenAI%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%9A%84%E4%B8%8A%E4%BD%8D%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
         }
       ]
     },
@@ -290,7 +348,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
