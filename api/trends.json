@@ -1,377 +1,161 @@
 {
-  "generated_at": "2026-02-01T23:09:11.938353+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-02-02T09:39:26.627703+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 23时09分]"
-        },
-        {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 18时09分]"
-        },
-        {
-          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
-          "url": "https://wallstreetcn.com/articles/3764665",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 18时09分]"
-        },
-        {
-          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
-          "url": "https://www.cls.cn/detail/2276797",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
-        },
-        {
-          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
-          "url": "https://wallstreetcn.com/livenews/3047799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 23时09分]"
-        },
-        {
-          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
-          "url": "https://www.zhihu.com/question/2000597877295174051",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
-        },
-        {
-          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
-          "url": "https://wallstreetcn.com/articles/3764648",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
-          "url": "https://www.zhihu.com/question/2000826715941904620",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
-          "url": "https://www.zhihu.com/question/2000979139897811762",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
-          "url": "https://wallstreetcn.com/livenews/3047705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
           "url": "https://wallstreetcn.com/articles/3764687",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 23时09分]"
-        },
-        {
-          "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
-          "url": "https://www.cls.cn/detail/2276350",
+          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
+          "url": "https://www.cls.cn/detail/2276967",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时48分]"
-        },
-        {
-          "title": "金价巨震 有人昨天赚5万今天倒亏4万",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时48分]"
-        },
-        {
-          "title": "金价大跌 男子斥资20多万买入200克",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时48分]"
-        },
-        {
-          "title": "金价大跌男子斥资20多万买入200克",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
-        },
-        {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            14
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "09时39分"
         },
         {
-          "title": "深圳水贝金价暴跌市民扎堆买金",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%B8%82%E6%B0%91%E6%89%8E%E5%A0%86%E4%B9%B0%E9%87%91%23&t=31&band_rank=22&Refer=top",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "09时39分"
         },
         {
-          "title": "金价暴跌 有柜姐发帖退单一律扣500",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
-          "source": "百度热搜",
+          "title": "金价震荡 多家银行发布风险提示",
+          "url": "https://www.toutiao.com/trending/7601831569082859583/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "金价有没有天花板",
+          "url": "https://www.toutiao.com/trending/7602036177641672238/",
+          "source": "今日头条",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "09时39分"
         },
         {
-          "title": "金价暴跌有柜姐放话退单扣500元",
-          "url": "https://www.toutiao.com/trending/7601368996558127146/",
-          "source": "今日头条",
+          "title": "金价下跌30克金镯2天降价6000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C30%E5%85%8B%E9%87%91%E9%95%AF2%E5%A4%A9%E9%99%8D%E4%BB%B76000%E5%85%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            27
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
-          "url": "https://flash.jin10.com/detail/20260201175015575800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "揭秘OpenAI掌门人的上位史",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98OpenAI%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%9A%84%E4%B8%8A%E4%BD%8D%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 23时09分]"
-        },
-        {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
+          "time_info": "09时39分"
         }
       ]
     },
     {
       "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
           "source": "澎湃新闻",
           "ranks": [
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
           "url": "https://wallstreetcn.com/articles/3764674",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 23时09分]"
-        },
-        {
-          "title": "比特币跌破8万美元",
-          "url": "https://www.douyin.com/hot/2385871",
-          "source": "抖音",
-          "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "09时39分"
         },
         {
-          "title": "比特币跌破8万美元关口，创去年4月以来最低",
-          "url": "https://wallstreetcn.com/livenews/3047718",
-          "source": "华尔街见闻-快讯",
+          "title": "比特币跌破80000美元！与特朗普政府紧密联系反成拖累",
+          "url": "https://www.cls.cn/detail/2276706",
+          "source": "财联社热门",
           "ranks": [
-            22
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "09时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
+          "url": "https://www.cls.cn/detail/2276797",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
-        },
-        {
-          "title": "UP体验谷歌最新世界模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "09时39分"
         }
       ]
     },
@@ -380,15 +164,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
-          "url": "https://www.cls.cn/detail/2276378",
-          "source": "财联社热门",
+          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "09时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "台湾证交所加权股价指数盘初下跌1.1%至31,712.11点。 新台币兑美元下跌0.3%至31.565。",
+          "url": "https://wallstreetcn.com/livenews/3047913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     }
