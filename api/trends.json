@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T09:38:59.173654+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-02-05T12:39:07.854740+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -26,24 +26,47 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
-          "url": "https://wallstreetcn.com/articles/3764903",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
         },
         {
           "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
           "url": "https://www.cls.cn/detail/2281019",
           "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
+          "url": "https://flash.jin10.com/detail/20260205115645206800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "花旗：智能体AI难以撼动旅游平台 指跨平台比价仍是用户刚需",
+          "url": "https://flash.jin10.com/detail/20260205112646440800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
+          "url": "https://wallstreetcn.com/articles/3764903",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
@@ -98,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -127,7 +150,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -137,8 +160,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
         }
       ]
     },
@@ -151,11 +185,12 @@
           "url": "https://www.cls.cn/detail/2280847",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
         }
       ]
     }
