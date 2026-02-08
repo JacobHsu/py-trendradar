@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T12:49:51.319656+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-02-08T18:09:49.147785+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时38分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 18时09分]"
+        },
+        {
+          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
+          "url": "https://wallstreetcn.com/livenews/3051816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -31,16 +42,49 @@
           "time_info": "[09时38分 ~ 12时49分]"
         },
         {
-          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
-          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
+          "url": "https://flash.jin10.com/detail/20260208172718886800",
           "source": "金十数据",
           "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
             8,
-            18
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时38分 ~ 12时49分]"
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 18时09分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -51,8 +95,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 18时09分]"
+        },
+        {
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时49分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
@@ -89,15 +145,15 @@
           "time_info": "[09时39分 ~ 12时49分]"
         },
         {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
-          "source": "华尔街见闻",
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "18时09分"
         },
         {
           "title": "沈月说身边人都在用千问AI点奶茶",
@@ -106,7 +162,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         }
@@ -114,7 +170,7 @@
     },
     {
       "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华尔街分析师称比特币或跌至零美元",
@@ -123,9 +179,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
+          "url": "https://www.cls.cn/detail/2283800",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 18时09分]"
         },
         {
           "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
@@ -140,15 +207,15 @@
           "time_info": "[09时39分 ~ 12时49分]"
         },
         {
-          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
-          "url": "https://www.cls.cn/detail/2283800",
-          "source": "财联社热门",
+          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
+          "url": "https://wallstreetcn.com/articles/3765240",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时38分 ~ 12时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "韩员工手滑发62万枚比特币",
@@ -157,7 +224,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         }
@@ -168,6 +235,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
+          "url": "https://www.zhihu.com/question/2003305831391785957",
+          "source": "知乎",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 18时09分]"
+        },
+        {
           "title": "黄金——资产再配置，金价走向何方？",
           "url": "https://wallstreetcn.com/articles/3765213",
           "source": "华尔街见闻",
@@ -177,17 +256,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 09时39分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
-          "url": "https://www.zhihu.com/question/2003305831391785957",
-          "source": "知乎",
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "18时09分"
         }
       ]
     },
@@ -204,8 +306,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时38分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 18时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         }
       ]
     }
