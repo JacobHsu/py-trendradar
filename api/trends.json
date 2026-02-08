@@ -1,329 +1,150 @@
 {
-  "generated_at": "2026-02-07T23:09:35.709498+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-02-08T09:39:04.036666+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 18,
+      "match_count": 7,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
           "ranks": [
-            9,
-            3,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 23时09分]"
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         },
         {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
+          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
+          "url": "https://wallstreetcn.com/articles/3765226",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时36分]"
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
+          "url": "https://wallstreetcn.com/articles/3765210",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
+          "url": "https://www.cls.cn/detail/2283686",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
+          "url": "https://wallstreetcn.com/livenews/3051748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "UP主联合自制AI春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 23时09分]"
-        },
-        {
-          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
-          "url": "https://wallstreetcn.com/livenews/3051704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 18时09分]"
-        },
-        {
-          "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
-          "url": "https://wallstreetcn.com/livenews/3051663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时36分]"
-        },
-        {
-          "title": "我国首次明确培育三类数据流通服务机构，助力“人工智能+”行动",
-          "url": "https://wallstreetcn.com/livenews/3051662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时36分]"
-        },
-        {
-          "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
-          "url": "https://wallstreetcn.com/articles/3765198",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 23时09分]"
-        },
-        {
-          "title": "你认为AI会替代软件开发吗",
-          "url": "https://www.toutiao.com/trending/7603910615171301402/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
-        },
-        {
-          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
-          "url": "https://wallstreetcn.com/livenews/3051672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 18时09分]"
-        },
-        {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时36分]"
-        },
-        {
-          "title": "AI考验我人脉的时候到了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E8%80%83%E9%AA%8C%E6%88%91%E4%BA%BA%E8%84%89%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
-        },
-        {
-          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-          "url": "https://wallstreetcn.com/livenews/3051701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "至少6000亿美元！美国科技六巨头今年继续砸钱AI，但市场情绪却在分化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550430",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
-          "url": "https://wallstreetcn.com/livenews/3051719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 23时09分]"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 23时09分]"
-        },
-        {
-          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2283417",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 23时09分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨5.18%，报391.95点，本周累涨2.52%。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.94%，报2764.85点，本周累涨0.76%。 （美股）原材料指数收涨3.62%，本周累涨4.82%。 （美股）金属与矿业指数收涨3.92%，本周累涨6.03%。",
-          "url": "https://wallstreetcn.com/livenews/3051636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
-          "url": "https://wallstreetcn.com/livenews/3051649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 12时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 18时09分]"
+          "time_info": "09时39分"
         }
       ]
     },
     {
       "keyword_group": "比特币 BTC Bitcoin",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "比特币触及16个月新低",
-          "url": "https://www.toutiao.com/trending/7603704896004558379/",
-          "source": "今日头条",
+          "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
+          "url": "https://wallstreetcn.com/livenews/3051758",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
+          "url": "https://www.cls.cn/detail/2283800",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "time_info": "[09时38分 ~ 09时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金——资产再配置，金价走向何方？",
+          "url": "https://wallstreetcn.com/articles/3765213",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         }
       ]
     }
