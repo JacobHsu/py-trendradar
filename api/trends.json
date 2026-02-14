@@ -1,55 +1,81 @@
 {
-  "generated_at": "2026-02-14T09:38:32.883300+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-14T12:37:36.670142+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
           "url": "https://www.cls.cn/detail/2290109",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 12时37分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 12时37分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 12时37分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 12时37分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 12时37分]"
+        },
+        {
+          "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
+          "url": "https://flash.jin10.com/detail/20260214113020245800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "12时37分"
         },
         {
           "title": "科大讯飞总裁吴晓如：2025年公司海外营收超10亿元 AI核心业务推动出海提速",
@@ -63,15 +89,26 @@
           "time_info": "09时38分"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
+          "title": "工信部等三部门：支持酿酒企业深化人工智能应用 提升生产经营全过程智能化水平",
+          "url": "https://flash.jin10.com/detail/20260214111934403800",
+          "source": "金十数据",
           "ranks": [
-            20
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "12时37分"
+        },
+        {
+          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
+          "url": "https://www.zhihu.com/question/2005725246167147371",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -88,7 +125,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -98,30 +135,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 12时37分]"
         },
         {
           "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
           "url": "https://wallstreetcn.com/articles/3765660",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 12时37分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2289929",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 12时37分]"
         },
         {
           "title": "美股周五收盘，道指收涨0.1%，标普500指数涨0.05%，纳指跌0.22%。大型科技股涨跌不一 ，苹果(AAPL.O)跌2.27%，英伟达(NVDA.O)跌2.21%，闪迪(SNDK.O)跌0.59%，甲骨文(ORCL.N)涨2.34%，高通(QCOM.O)涨1.61%。",
@@ -133,6 +172,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "美股：金银大涨 英伟达蒸发6900亿元",
+          "url": "https://www.toutiao.com/trending/7606270891333091371/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
+          "url": "https://flash.jin10.com/detail/20260214122124232800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     }
