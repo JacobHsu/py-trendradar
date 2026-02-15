@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-15T12:43:50.599603+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-02-15T18:09:16.730822+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时09分]"
+        },
         {
           "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
           "url": "https://wallstreetcn.com/articles/3765732",
@@ -32,15 +44,17 @@
           "time_info": "[09时38分 ~ 12时43分]"
         },
         {
-          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
-          "source": "澎湃新闻",
+          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
+          "url": "https://www.cls.cn/detail/2290485",
+          "source": "财联社热门",
           "ranks": [
-            5
+            10,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时09分]"
         },
         {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
@@ -65,13 +79,24 @@
           "time_info": "09时38分"
         },
         {
+          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
+          "url": "https://wallstreetcn.com/articles/3765753",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
           "url": "https://www.zhihu.com/question/1927393488770692768",
           "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -88,16 +113,17 @@
           "time_info": "[09时38分 ~ 12时43分]"
         },
         {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://www.cls.cn/detail/2290485",
-          "source": "财联社热门",
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
           "ranks": [
+            9,
             10,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时09分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -105,11 +131,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时09分]"
+        },
+        {
+          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
+          "url": "https://wallstreetcn.com/articles/3765746",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时43分]"
+          "time_info": "[12时43分 ~ 18时09分]"
         },
         {
           "title": "AI女副总因反色情被炒鱿鱼",
@@ -117,34 +156,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时43分]"
-        },
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
             9,
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时43分]"
-        },
-        {
-          "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
-          "url": "https://news.ifeng.com/c/8qk233NwWb6",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时09分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -152,11 +169,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时09分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -164,7 +182,19 @@
           "source": "贴吧",
           "ranks": [
             26,
-            27
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时09分]"
+        },
+        {
+          "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
+          "url": "https://news.ifeng.com/c/8qk233NwWb6",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -182,15 +212,37 @@
           "time_info": "09时38分"
         },
         {
-          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
-          "url": "https://wallstreetcn.com/articles/3765746",
-          "source": "华尔街见闻",
+          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
+          "url": "https://flash.jin10.com/detail/20260215152511545800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "市场消息：法国总统马克龙将出席下周在印度举行的人工智能峰会。",
+          "url": "https://flash.jin10.com/detail/20260215152409492800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "18时09分"
+        },
+        {
+          "title": "“AI交易”的关键变量：服务业敞口越高，AI颠覆风险越大，“AI基建”最有利",
+          "url": "https://wallstreetcn.com/articles/3765743",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "黑龙江：支持生物制造企业运用人工智能、大数据等技术改造升级，提升数字化智能化水平",
@@ -226,15 +278,48 @@
           "time_info": "09时38分"
         },
         {
+          "title": "你认为 AI 编程未来真的会取代程序员吗？",
+          "url": "https://www.zhihu.com/question/1962444467077358693",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
           "url": "https://flash.jin10.com/detail/20260215110457187800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "习近平：要坚持创新驱动 深化拓展“人工智能+”",
+          "url": "https://flash.jin10.com/detail/20260215150836093800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "Clawdbot 开始雇佣人类，如何看待人类为 AI 打工，是噱头还是终结者降临？",
@@ -243,7 +328,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -254,7 +339,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -309,7 +394,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         }
@@ -320,23 +405,24 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时09分]"
+        },
+        {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
           "url": "https://wallstreetcn.com/articles/3765736",
           "source": "华尔街见闻",
           "ranks": [
             9,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时43分]"
-        },
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -394,11 +480,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 18时09分]"
         }
       ]
     }
