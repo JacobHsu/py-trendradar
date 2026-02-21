@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T18:09:01.636481+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-02-21T23:09:10.661670+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 18时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 23时09分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 18时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 23时09分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -37,11 +38,12 @@
           "ranks": [
             23,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 18时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 23时09分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -127,21 +129,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 18时09分]"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 18时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 23时09分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -152,19 +141,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 18时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 23时09分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 23时09分]"
         },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
           "url": "https://wallstreetcn.com/articles/3765925",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
+          "appearance_count": 4,
+          "time_info": "[18时08分 ~ 23时09分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -228,8 +232,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
         {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
           "url": "https://flash.jin10.com/detail/20260221100811881800",
@@ -299,11 +314,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 18时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 23时09分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
